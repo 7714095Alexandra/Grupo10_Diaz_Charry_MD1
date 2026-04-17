@@ -1,0 +1,21 @@
+requests==2.31.0
+pandas==2.2.2
+python-dotenv==1.0.1
+matplotlib==3.8.4
+openpyxl==3.1.2
+
+psycopg2-binary==2.9.9
+sqlalchemy==2.0.29
+alembic==1.13.1
+
+streamlit==1.32.2
+plotly==5.20.0
+numpy==1.26.4 
+
+# ── Nuevas dependencias para análisis estadístico ──
+jupyter==1.0.0
+notebook==7.2.0
+scikit-learn==1.4.2
+statsmodels==0.14.2
+scipy==1.11.4
+seaborn==0.13.2

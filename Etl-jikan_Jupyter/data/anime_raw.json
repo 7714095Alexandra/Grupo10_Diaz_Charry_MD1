@@ -1,0 +1,498 @@
+[
+  {
+    "id": 52991,
+    "titulo": "Sousou no Frieren",
+    "titulo_ingles": "Frieren: Beyond Journey's End",
+    "score": 9.26,
+    "episodios": 28,
+    "estado": "Finished Airing",
+    "tipo": "TV",
+    "fecha_inicio": "2023-09-29T00:00:00+00:00",
+    "fecha_fin": "2024-03-22T00:00:00+00:00",
+    "rating": "PG-13 - Teens 13 or older",
+    "popularidad": 106,
+    "miembros": 1383692,
+    "generos": [
+      "Adventure",
+      "Award Winning",
+      "Drama",
+      "Fantasy"
+    ],
+    "fecha_extraccion": "2026-03-24T17:35:53.734989"
+  },
+  {
+    "id": 61469,
+    "titulo": "Steel Ball Run: JoJo no Kimyou na Bouken",
+    "titulo_ingles": "Steel Ball Run: JoJo's Bizarre Adventure",
+    "score": 9.25,
+    "episodios": null,
+    "estado": "Currently Airing",
+    "tipo": "ONA",
+    "fecha_inicio": "2026-03-19T00:00:00+00:00",
+    "fecha_fin": null,
+    "rating": "R - 17+ (violence & profanity)",
+    "popularidad": 1707,
+    "miembros": 155543,
+    "generos": [
+      "Action",
+      "Adventure",
+      "Mystery",
+      "Supernatural"
+    ],
+    "fecha_extraccion": "2026-03-24T17:35:53.735017"
+  },
+  {
+    "id": 5114,
+    "titulo": "Fullmetal Alchemist: Brotherhood",
+    "titulo_ingles": "Fullmetal Alchemist: Brotherhood",
+    "score": 9.11,
+    "episodios": 64,
+    "estado": "Finished Airing",
+    "tipo": "TV",
+    "fecha_inicio": "2009-04-05T00:00:00+00:00",
+    "fecha_fin": "2010-07-04T00:00:00+00:00",
+    "rating": "R - 17+ (violence & profanity)",
+    "popularidad": 3,
+    "miembros": 3656115,
+    "generos": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "fecha_extraccion": "2026-03-24T17:35:53.735022"
+  },
+  {
+    "id": 57555,
+    "titulo": "Chainsaw Man Movie: Reze-hen",
+    "titulo_ingles": "Chainsaw Man – The Movie: Reze Arc",
+    "score": 9.09,
+    "episodios": 1,
+    "estado": "Finished Airing",
+    "tipo": "Movie",
+    "fecha_inicio": "2025-09-19T00:00:00+00:00",
+    "fecha_fin": null,
+    "rating": "R - 17+ (violence & profanity)",
+    "popularidad": 613,
+    "miembros": 431864,
+    "generos": [
+      "Action",
+      "Fantasy"
+    ],
+    "fecha_extraccion": "2026-03-24T17:35:53.735027"
+  },
+  {
+    "id": 9253,
+    "titulo": "Steins;Gate",
+    "titulo_ingles": "Steins;Gate",
+    "score": 9.07,
+    "episodios": 24,
+    "estado": "Finished Airing",
+    "tipo": "TV",
+    "fecha_inicio": "2011-04-06T00:00:00+00:00",
+    "fecha_fin": "2011-09-14T00:00:00+00:00",
+    "rating": "PG-13 - Teens 13 or older",
+    "popularidad": 14,
+    "miembros": 2794136,
+    "generos": [
+      "Drama",
+      "Sci-Fi",
+      "Suspense"
+    ],
+    "fecha_extraccion": "2026-03-24T17:35:53.735030"
+  },
+  {
+    "id": 38524,
+    "titulo": "Shingeki no Kyojin Season 3 Part 2",
+    "titulo_ingles": "Attack on Titan Season 3 Part 2",
+    "score": 9.05,
+    "episodios": 10,
+    "estado": "Finished Airing",
+    "tipo": "TV",
+    "fecha_inicio": "2019-04-29T00:00:00+00:00",
+    "fecha_fin": "2019-07-01T00:00:00+00:00",
+    "rating": "R - 17+ (violence & profanity)",
+    "popularidad": 20,
+    "miembros": 2569309,
+    "generos": [
+      "Action",
+      "Drama",
+      "Suspense"
+    ],
+    "fecha_extraccion": "2026-03-24T17:35:53.735033"
+  },
+  {
+    "id": 28977,
+    "titulo": "Gintama°",
+    "titulo_ingles": "Gintama Season 4",
+    "score": 9.05,
+    "episodios": 51,
+    "estado": "Finished Airing",
+    "tipo": "TV",
+    "fecha_inicio": "2015-04-08T00:00:00+00:00",
+    "fecha_fin": "2016-03-30T00:00:00+00:00",
+    "rating": "PG-13 - Teens 13 or older",
+    "popularidad": 348,
+    "miembros": 687963,
+    "generos": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "fecha_extraccion": "2026-03-24T17:35:53.735036"
+  },
+  {
+    "id": 39486,
+    "titulo": "Gintama: The Final",
+    "titulo_ingles": "Gintama: The Very Final",
+    "score": 9.05,
+    "episodios": 1,
+    "estado": "Finished Airing",
+    "tipo": "Movie",
+    "fecha_inicio": "2021-01-08T00:00:00+00:00",
+    "fecha_fin": null,
+    "rating": "PG-13 - Teens 13 or older",
+    "popularidad": 1510,
+    "miembros": 181795,
+    "generos": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "fecha_extraccion": "2026-03-24T17:35:53.735038"
+  },
+  {
+    "id": 11061,
+    "titulo": "Hunter x Hunter (2011)",
+    "titulo_ingles": "Hunter x Hunter",
+    "score": 9.03,
+    "episodios": 148,
+    "estado": "Finished Airing",
+    "tipo": "TV",
+    "fecha_inicio": "2011-10-02T00:00:00+00:00",
+    "fecha_fin": "2014-09-24T00:00:00+00:00",
+    "rating": "PG-13 - Teens 13 or older",
+    "popularidad": 8,
+    "miembros": 3161817,
+    "generos": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "fecha_extraccion": "2026-03-24T17:35:53.735058"
+  },
+  {
+    "id": 60022,
+    "titulo": "One Piece Fan Letter",
+    "titulo_ingles": null,
+    "score": 9.02,
+    "episodios": 1,
+    "estado": "Finished Airing",
+    "tipo": "TV Special",
+    "fecha_inicio": "2024-10-20T00:00:00+00:00",
+    "fecha_fin": null,
+    "rating": "PG-13 - Teens 13 or older",
+    "popularidad": 1774,
+    "miembros": 148752,
+    "generos": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "fecha_extraccion": "2026-03-24T17:35:53.735061"
+  },
+  {
+    "id": 59978,
+    "titulo": "Sousou no Frieren 2nd Season",
+    "titulo_ingles": "Frieren: Beyond Journey's End Season 2",
+    "score": 9.02,
+    "episodios": 10,
+    "estado": "Currently Airing",
+    "tipo": "TV",
+    "fecha_inicio": "2026-01-16T00:00:00+00:00",
+    "fecha_fin": "2026-03-27T00:00:00+00:00",
+    "rating": "PG-13 - Teens 13 or older",
+    "popularidad": 593,
+    "miembros": 443390,
+    "generos": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "fecha_extraccion": "2026-03-24T17:35:53.735063"
+  },
+  {
+    "id": 9969,
+    "titulo": "Gintama'",
+    "titulo_ingles": "Gintama Season 2",
+    "score": 9.02,
+    "episodios": 51,
+    "estado": "Finished Airing",
+    "tipo": "TV",
+    "fecha_inicio": "2011-04-04T00:00:00+00:00",
+    "fecha_fin": "2012-03-26T00:00:00+00:00",
+    "rating": "PG-13 - Teens 13 or older",
+    "popularidad": 406,
+    "miembros": 609898,
+    "generos": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "fecha_extraccion": "2026-03-24T17:35:53.735067"
+  },
+  {
+    "id": 15417,
+    "titulo": "Gintama': Enchousen",
+    "titulo_ingles": "Gintama: Enchousen",
+    "score": 9.02,
+    "episodios": 13,
+    "estado": "Finished Airing",
+    "tipo": "TV",
+    "fecha_inicio": "2012-10-04T00:00:00+00:00",
+    "fecha_fin": "2013-03-28T00:00:00+00:00",
+    "rating": "PG-13 - Teens 13 or older",
+    "popularidad": 758,
+    "miembros": 356373,
+    "generos": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "fecha_extraccion": "2026-03-24T17:35:53.735069"
+  },
+  {
+    "id": 820,
+    "titulo": "Ginga Eiyuu Densetsu",
+    "titulo_ingles": "Legend of the Galactic Heroes",
+    "score": 9.02,
+    "episodios": 110,
+    "estado": "Finished Airing",
+    "tipo": "OVA",
+    "fecha_inicio": "1988-01-08T00:00:00+00:00",
+    "fecha_fin": "1997-03-17T00:00:00+00:00",
+    "rating": "R - 17+ (violence & profanity)",
+    "popularidad": 755,
+    "miembros": 360124,
+    "generos": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "fecha_extraccion": "2026-03-24T17:35:53.735072"
+  },
+  {
+    "id": 34096,
+    "titulo": "Gintama.",
+    "titulo_ingles": "Gintama Season 5",
+    "score": 8.98,
+    "episodios": 12,
+    "estado": "Finished Airing",
+    "tipo": "TV",
+    "fecha_inicio": "2017-01-09T00:00:00+00:00",
+    "fecha_fin": "2017-03-27T00:00:00+00:00",
+    "rating": "PG-13 - Teens 13 or older",
+    "popularidad": 789,
+    "miembros": 346706,
+    "generos": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "fecha_extraccion": "2026-03-24T17:35:53.735075"
+  },
+  {
+    "id": 41467,
+    "titulo": "Bleach: Sennen Kessen-hen",
+    "titulo_ingles": "Bleach: Thousand-Year Blood War",
+    "score": 8.98,
+    "episodios": 13,
+    "estado": "Finished Airing",
+    "tipo": "TV",
+    "fecha_inicio": "2022-10-11T00:00:00+00:00",
+    "fecha_fin": "2022-12-27T00:00:00+00:00",
+    "rating": "R - 17+ (violence & profanity)",
+    "popularidad": 343,
+    "miembros": 694342,
+    "generos": [
+      "Action",
+      "Adventure",
+      "Supernatural"
+    ],
+    "fecha_extraccion": "2026-03-24T17:35:53.735077"
+  },
+  {
+    "id": 43608,
+    "titulo": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+    "titulo_ingles": "Kaguya-sama: Love is War -Ultra Romantic-",
+    "score": 8.96,
+    "episodios": 13,
+    "estado": "Finished Airing",
+    "tipo": "TV",
+    "fecha_inicio": "2022-04-09T00:00:00+00:00",
+    "fecha_fin": "2022-06-25T00:00:00+00:00",
+    "rating": "PG-13 - Teens 13 or older",
+    "popularidad": 164,
+    "miembros": 1099202,
+    "generos": [
+      "Comedy",
+      "Romance"
+    ],
+    "fecha_extraccion": "2026-03-24T17:35:53.735079"
+  },
+  {
+    "id": 42938,
+    "titulo": "Fruits Basket: The Final",
+    "titulo_ingles": "Fruits Basket: The Final Season",
+    "score": 8.94,
+    "episodios": 13,
+    "estado": "Finished Airing",
+    "tipo": "TV",
+    "fecha_inicio": "2021-04-06T00:00:00+00:00",
+    "fecha_fin": "2021-06-29T00:00:00+00:00",
+    "rating": "PG-13 - Teens 13 or older",
+    "popularidad": 443,
+    "miembros": 558291,
+    "generos": [
+      "Drama",
+      "Romance",
+      "Supernatural"
+    ],
+    "fecha_extraccion": "2026-03-24T17:35:53.735082"
+  },
+  {
+    "id": 4181,
+    "titulo": "Clannad: After Story",
+    "titulo_ingles": "Clannad: After Story",
+    "score": 8.93,
+    "episodios": 24,
+    "estado": "Finished Airing",
+    "tipo": "TV",
+    "fecha_inicio": "2008-10-03T00:00:00+00:00",
+    "fecha_fin": "2009-03-27T00:00:00+00:00",
+    "rating": "PG-13 - Teens 13 or older",
+    "popularidad": 123,
+    "miembros": 1279541,
+    "generos": [
+      "Drama",
+      "Romance"
+    ],
+    "fecha_extraccion": "2026-03-24T17:35:53.735085"
+  },
+  {
+    "id": 918,
+    "titulo": "Gintama",
+    "titulo_ingles": "Gintama",
+    "score": 8.93,
+    "episodios": 201,
+    "estado": "Finished Airing",
+    "tipo": "TV",
+    "fecha_inicio": "2006-04-04T00:00:00+00:00",
+    "fecha_fin": "2010-03-25T00:00:00+00:00",
+    "rating": "PG-13 - Teens 13 or older",
+    "popularidad": 147,
+    "miembros": 1148715,
+    "generos": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "fecha_extraccion": "2026-03-24T17:35:53.735088"
+  },
+  {
+    "id": 28851,
+    "titulo": "Koe no Katachi",
+    "titulo_ingles": "A Silent Voice",
+    "score": 8.93,
+    "episodios": 1,
+    "estado": "Finished Airing",
+    "tipo": "Movie",
+    "fecha_inicio": "2016-09-17T00:00:00+00:00",
+    "fecha_fin": null,
+    "rating": "PG-13 - Teens 13 or older",
+    "popularidad": 19,
+    "miembros": 2593109,
+    "generos": [
+      "Award Winning",
+      "Drama"
+    ],
+    "fecha_extraccion": "2026-03-24T17:35:53.735090"
+  },
+  {
+    "id": 2904,
+    "titulo": "Code Geass: Hangyaku no Lelouch R2",
+    "titulo_ingles": "Code Geass: Lelouch of the Rebellion R2",
+    "score": 8.92,
+    "episodios": 25,
+    "estado": "Finished Airing",
+    "tipo": "TV",
+    "fecha_inicio": "2008-04-06T00:00:00+00:00",
+    "fecha_fin": "2008-09-28T00:00:00+00:00",
+    "rating": "R - 17+ (violence & profanity)",
+    "popularidad": 48,
+    "miembros": 1941860,
+    "generos": [
+      "Award Winning",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "fecha_extraccion": "2026-03-24T17:35:53.735093"
+  },
+  {
+    "id": 58514,
+    "titulo": "Kusuriya no Hitorigoto 2nd Season",
+    "titulo_ingles": "The Apothecary Diaries Season 2",
+    "score": 8.91,
+    "episodios": 24,
+    "estado": "Finished Airing",
+    "tipo": "TV",
+    "fecha_inicio": "2025-01-10T00:00:00+00:00",
+    "fecha_fin": "2025-07-04T00:00:00+00:00",
+    "rating": "PG-13 - Teens 13 or older",
+    "popularidad": 536,
+    "miembros": 481381,
+    "generos": [
+      "Drama",
+      "Mystery"
+    ],
+    "fecha_extraccion": "2026-03-24T17:35:53.735096"
+  },
+  {
+    "id": 35180,
+    "titulo": "3-gatsu no Lion 2nd Season",
+    "titulo_ingles": "March Comes In Like a Lion 2nd Season",
+    "score": 8.9,
+    "episodios": 22,
+    "estado": "Finished Airing",
+    "tipo": "TV",
+    "fecha_inicio": "2017-10-14T00:00:00+00:00",
+    "fecha_fin": "2018-03-31T00:00:00+00:00",
+    "rating": "PG-13 - Teens 13 or older",
+    "popularidad": 606,
+    "miembros": 436531,
+    "generos": [
+      "Drama"
+    ],
+    "fecha_extraccion": "2026-03-24T17:35:53.735098"
+  },
+  {
+    "id": 15335,
+    "titulo": "Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare",
+    "titulo_ingles": "Gintama: The Movie: The Final Chapter: Be Forever Yorozuya",
+    "score": 8.89,
+    "episodios": 1,
+    "estado": "Finished Airing",
+    "tipo": "Movie",
+    "fecha_inicio": "2013-07-06T00:00:00+00:00",
+    "fecha_fin": null,
+    "rating": "PG-13 - Teens 13 or older",
+    "popularidad": 1068,
+    "miembros": 261468,
+    "generos": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "fecha_extraccion": "2026-03-24T17:35:53.735101"
+  }
+]
