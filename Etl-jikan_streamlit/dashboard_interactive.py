@@ -14,7 +14,7 @@ st.set_page_config(
 st.title("🎛️ Dashboard Interactivo - Anime (Jikan)")
 
 # =========================
-# 📂 CARGA DE DATOS (ARREGLADO)
+# 📂 CARGA DE DATOS
 # =========================
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -98,8 +98,8 @@ if not df_filtrado.empty:
         st.metric("⭐ Score Prom", f"{df_filtrado['score'].mean():.2f}")
 
     with col4:
-        if 'popularity' in df.columns:
-            st.metric("🔥 Popularidad Prom", int(df_filtrado['popularity'].mean()))
+        if 'popularidad' in df.columns:
+            st.metric("🔥 Popularidad Prom", int(df_filtrado['popularidad'].mean()))
         else:
             st.metric("🔥 Popularidad Prom", "N/A")
 
@@ -110,6 +110,7 @@ if not df_filtrado.empty:
 
     col1, col2 = st.columns(2)
 
+    # Boxplot
     with col1:
         st.markdown("#### Distribución de Scores")
         fig = px.box(
@@ -119,6 +120,7 @@ if not df_filtrado.empty:
         )
         st.plotly_chart(fig, use_container_width=True)
 
+    # Episodios
     with col2:
         if 'episodios' in df.columns:
             st.markdown("#### Episodios por Tipo")
@@ -133,13 +135,14 @@ if not df_filtrado.empty:
 
     st.markdown("---")
 
+    # Scatter
     st.markdown("#### 📈 Score vs Popularidad")
 
-    if 'popularity' in df.columns:
+    if 'popularidad' in df.columns:
         fig = px.scatter(
             df_filtrado,
             x='score',
-            y='popularity',
+            y='popularidad',
             size='miembros' if 'miembros' in df.columns else None,
             color='tipo' if 'tipo' in df.columns else None,
             hover_data=['titulo']
@@ -150,6 +153,7 @@ if not df_filtrado.empty:
 
     st.markdown("---")
 
+    # Tabla
     st.markdown("#### 📋 Datos Detallados")
 
     col1, col2 = st.columns(2)
@@ -171,6 +175,7 @@ if not df_filtrado.empty:
 
     st.markdown("---")
 
+    # Descarga
     csv = df_filtrado.to_csv(index=False)
 
     st.download_button(
