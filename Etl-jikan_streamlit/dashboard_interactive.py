@@ -14,14 +14,17 @@ st.set_page_config(
 st.title("🎛️ Dashboard Interactivo - Anime (Jikan)")
 
 # =========================
-# 📂 CARGA DE DATOS
+# 📂 CARGA DE DATOS (ARREGLADO)
 # =========================
 
-if not os.path.exists('data/anime.csv'):
-    st.error("❌ No existe data/anime.csv")
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+ruta_csv = os.path.join(BASE_DIR, "data", "anime.csv")
+
+if not os.path.exists(ruta_csv):
+    st.error(f"❌ No existe el archivo en: {ruta_csv}")
     st.stop()
 
-df = pd.read_csv('data/anime.csv')
+df = pd.read_csv(ruta_csv)
 
 # Limpieza básica
 if 'score' in df.columns:
@@ -33,7 +36,6 @@ if 'score' in df.columns:
 
 st.sidebar.markdown("### 🔧 Controles")
 
-# Tipos
 tipos = df['tipo'].dropna().unique() if 'tipo' in df.columns else []
 tipos_sel = st.sidebar.multiselect(
     "🎬 Tipo de Anime",
@@ -41,7 +43,6 @@ tipos_sel = st.sidebar.multiselect(
     default=list(tipos)
 )
 
-# Score
 score_min, score_max = st.sidebar.slider(
     "⭐ Rango de Score",
     float(df['score'].min()),
@@ -49,7 +50,6 @@ score_min, score_max = st.sidebar.slider(
     (float(df['score'].min()), float(df['score'].max()))
 )
 
-# Episodios
 if 'episodios' in df.columns:
     ep_min, ep_max = st.sidebar.slider(
         "📺 Episodios",
@@ -108,13 +108,8 @@ if not df_filtrado.empty:
 
     st.markdown("---")
 
-    # =========================
-    # 📈 GRÁFICAS
-    # =========================
-
     col1, col2 = st.columns(2)
 
-    # Distribución de score
     with col1:
         st.markdown("#### Distribución de Scores")
         fig = px.box(
@@ -124,7 +119,6 @@ if not df_filtrado.empty:
         )
         st.plotly_chart(fig, use_container_width=True)
 
-    # Episodios promedio
     with col2:
         if 'episodios' in df.columns:
             st.markdown("#### Episodios por Tipo")
@@ -139,7 +133,6 @@ if not df_filtrado.empty:
 
     st.markdown("---")
 
-    # Scatter
     st.markdown("#### 📈 Score vs Popularidad")
 
     if 'popularity' in df.columns:
@@ -156,10 +149,6 @@ if not df_filtrado.empty:
         st.warning("⚠️ No hay datos de popularidad")
 
     st.markdown("---")
-
-    # =========================
-    # 📋 TABLA INTERACTIVA
-    # =========================
 
     st.markdown("#### 📋 Datos Detallados")
 
@@ -179,10 +168,6 @@ if not df_filtrado.empty:
         st.dataframe(df_filtrado[columnas], use_container_width=True)
     else:
         st.dataframe(df_filtrado[columnas].head(20), use_container_width=True)
-
-    # =========================
-    # ⬇️ DESCARGA
-    # =========================
 
     st.markdown("---")
 
