@@ -1,0 +1,1001 @@
+mal_id,titulo,score,episodios,estado,anio,temporada,genero,popularidad,ranking,miembros,favoritos
+1,Attack on Titan 0,9.94,31,Currently Airing,2013,Fall,Romance,31,560,933742,49002
+2,Demon Slayer 1,7.24,14,Finished Airing,2010,Spring,Romance,4508,1525,716429,34355
+3,Demon Slayer 2,5.63,77,Finished Airing,2022,Winter,Drama,5942,4716,502816,18159
+4,Attack on Titan 3,6.26,4,Currently Airing,2002,Winter,Comedy,8511,892,816064,42091
+5,Naruto 4,5.41,43,Finished Airing,2004,Summer,Comedy,7817,45,381927,36002
+6,Attack on Titan 5,6.06,39,Currently Airing,2010,Spring,Fantasy,6859,974,666373,7458
+7,My Hero Academia 6,9.32,61,Finished Airing,2012,Spring,Comedy,8594,4103,612699,17351
+8,Naruto 7,5.65,86,Finished Airing,2001,Spring,Drama,7955,1247,331462,30640
+9,Demon Slayer 8,6.98,57,Currently Airing,2018,Fall,Sci-Fi,4413,3432,443013,3093
+10,Tokyo Ghoul 9,9.7,83,Currently Airing,2006,Winter,Romance,3676,2944,789740,22086
+11,One Piece 10,6.21,96,Currently Airing,2017,Spring,Sci-Fi,24,1891,413427,46593
+12,My Hero Academia 11,5.26,73,Currently Airing,2013,Winter,Horror,1829,3918,945882,10001
+13,Demon Slayer 12,6.41,83,Finished Airing,2012,Winter,Fantasy,8126,3423,390752,30955
+14,Tokyo Ghoul 13,9.02,97,Finished Airing,2024,Fall,Romance,5108,4234,446322,8432
+15,Attack on Titan 14,7.8,35,Currently Airing,2009,Fall,Adventure,4812,3933,120505,25006
+16,Fullmetal Alchemist 15,8.37,5,Currently Airing,2010,Spring,Sci-Fi,1335,322,795137,22500
+17,My Hero Academia 16,5.29,87,Finished Airing,2010,Summer,Romance,7884,2201,275156,10783
+18,My Hero Academia 17,8.59,70,Finished Airing,2009,Winter,Fantasy,8531,696,418430,3317
+19,Death Note 18,8.8,80,Currently Airing,2012,Summer,Horror,4711,2592,954027,19418
+20,Demon Slayer 19,7.51,95,Finished Airing,2006,Spring,Action,2520,4652,592834,40654
+21,Naruto 20,7.87,86,Finished Airing,2017,Fall,Fantasy,6357,941,128690,46732
+22,Demon Slayer 21,6.62,18,Finished Airing,2020,Summer,Romance,8787,3157,413168,7131
+23,Dragon Ball 22,9.93,57,Finished Airing,2010,Fall,Adventure,4546,2579,559127,17904
+24,Demon Slayer 23,5.88,32,Finished Airing,2023,Summer,Romance,251,3256,494851,27127
+25,Tokyo Ghoul 24,5.02,72,Finished Airing,2004,Fall,Fantasy,1399,4498,472980,46008
+26,Tokyo Ghoul 25,8.47,52,Finished Airing,2007,Fall,Comedy,2041,4357,112430,35632
+27,Naruto 26,9.94,64,Finished Airing,2002,Winter,Action,4404,4339,838978,45976
+28,One Piece 27,6.52,3,Currently Airing,2018,Spring,Action,9786,3383,723296,49325
+29,Demon Slayer 28,7.58,54,Currently Airing,2017,Fall,Adventure,4577,3875,159941,24529
+30,Tokyo Ghoul 29,6.93,97,Currently Airing,2023,Summer,Romance,7900,4444,583331,20591
+31,Dragon Ball 30,8.33,33,Finished Airing,2006,Fall,Adventure,2937,4953,864489,17696
+32,Tokyo Ghoul 31,5.73,20,Finished Airing,2020,Fall,Romance,9732,4052,264971,15668
+33,Fullmetal Alchemist 32,9.5,97,Finished Airing,2021,Summer,Horror,7807,738,74181,21763
+34,Naruto 33,9.95,30,Currently Airing,2001,Spring,Fantasy,8833,2236,277665,32428
+35,Demon Slayer 34,6.47,35,Currently Airing,2022,Fall,Comedy,2927,3720,360521,7517
+36,My Hero Academia 35,6.83,65,Finished Airing,2006,Fall,Comedy,4326,1072,20117,10864
+37,One Piece 36,5.8,36,Finished Airing,2020,Fall,Fantasy,1248,2094,851169,791
+38,Attack on Titan 37,5.14,73,Currently Airing,2024,Summer,Fantasy,213,3989,682568,49427
+39,Dragon Ball 38,8.12,14,Finished Airing,2017,Winter,Romance,5374,4647,882252,47580
+40,One Piece 39,7.94,45,Finished Airing,2007,Summer,Fantasy,368,3342,289062,32742
+41,Fullmetal Alchemist 40,7.1,61,Finished Airing,2022,Spring,Adventure,8455,965,900784,38413
+42,One Piece 41,9.51,75,Currently Airing,2014,Fall,Romance,8072,3312,182955,22206
+43,Tokyo Ghoul 42,9.51,92,Finished Airing,2008,Fall,Action,1612,2721,495754,20836
+44,Naruto 43,8.85,52,Currently Airing,2013,Spring,Adventure,3431,397,829192,10171
+45,One Piece 44,6.43,74,Currently Airing,2017,Spring,Sci-Fi,5507,2951,12319,28431
+46,One Piece 45,5.94,26,Finished Airing,2013,Spring,Horror,5033,3881,287725,28450
+47,Fullmetal Alchemist 46,7.55,83,Currently Airing,2001,Fall,Fantasy,3114,1977,904670,1924
+48,One Piece 47,8.9,96,Finished Airing,2016,Winter,Comedy,7437,1395,526460,1143
+49,Jujutsu Kaisen 48,8.22,53,Finished Airing,2010,Summer,Horror,7743,2414,601328,30462
+50,Death Note 49,7.08,10,Currently Airing,2011,Summer,Sci-Fi,1495,3682,230028,16437
+51,Attack on Titan 50,6.04,30,Currently Airing,2024,Winter,Adventure,446,4424,451083,48165
+52,Fullmetal Alchemist 51,6.75,28,Currently Airing,2024,Fall,Action,1090,2460,293795,5606
+53,Tokyo Ghoul 52,5.8,81,Finished Airing,2019,Winter,Romance,1780,3449,15333,49955
+54,Death Note 53,7.31,42,Finished Airing,2005,Fall,Drama,586,995,264296,28865
+55,Jujutsu Kaisen 54,9.52,3,Currently Airing,2023,Winter,Adventure,2364,4437,374307,7804
+56,Death Note 55,7.4,11,Finished Airing,2007,Fall,Adventure,8812,3466,654213,48816
+57,Naruto 56,8.55,19,Currently Airing,2015,Summer,Sci-Fi,8938,2842,872213,29316
+58,Jujutsu Kaisen 57,8.83,40,Finished Airing,2024,Winter,Sci-Fi,5925,277,613044,28785
+59,Death Note 58,9.52,25,Finished Airing,2000,Winter,Sci-Fi,598,2248,932632,12012
+60,Death Note 59,5.99,70,Currently Airing,2013,Spring,Comedy,2519,285,756415,45291
+61,My Hero Academia 60,6.35,21,Finished Airing,2011,Spring,Sci-Fi,8728,217,484936,15056
+62,Fullmetal Alchemist 61,5.82,17,Currently Airing,2001,Fall,Drama,7587,3724,647449,21329
+63,Demon Slayer 62,7.51,10,Currently Airing,2013,Summer,Romance,1293,1524,473793,14111
+64,Jujutsu Kaisen 63,5.99,58,Currently Airing,2000,Fall,Comedy,418,2564,620095,9678
+65,One Piece 64,7.88,40,Finished Airing,2001,Winter,Drama,6243,4405,946812,16241
+66,Dragon Ball 65,6.43,39,Finished Airing,2012,Fall,Sci-Fi,3787,1938,180724,21025
+67,Attack on Titan 66,5.79,72,Currently Airing,2016,Winter,Adventure,151,2272,972590,45837
+68,One Piece 67,7.94,76,Currently Airing,2020,Fall,Romance,1040,1055,589412,10921
+69,Dragon Ball 68,9.98,7,Finished Airing,2017,Fall,Horror,8966,3584,343766,7044
+70,One Piece 69,6.9,32,Finished Airing,2011,Spring,Sci-Fi,6938,68,307539,13403
+71,Naruto 70,8.16,17,Currently Airing,2007,Summer,Adventure,8907,3901,713735,26662
+72,Demon Slayer 71,5.08,71,Currently Airing,2004,Fall,Horror,5948,4832,244602,105
+73,My Hero Academia 72,7.36,17,Finished Airing,2007,Summer,Horror,5430,2318,832749,21769
+74,Jujutsu Kaisen 73,9.6,43,Finished Airing,2017,Summer,Horror,1937,690,334023,16240
+75,Tokyo Ghoul 74,9.37,27,Finished Airing,2001,Spring,Sci-Fi,7260,3250,238208,29733
+76,Death Note 75,5.17,16,Finished Airing,2023,Spring,Adventure,705,3802,475174,17254
+77,Tokyo Ghoul 76,8.46,83,Finished Airing,2018,Spring,Sci-Fi,6523,2940,95812,33421
+78,Tokyo Ghoul 77,8.41,100,Currently Airing,2015,Fall,Drama,5945,4581,676183,45451
+79,Attack on Titan 78,8.17,31,Currently Airing,2022,Fall,Adventure,3779,647,647437,47264
+80,Dragon Ball 79,9.44,23,Finished Airing,2002,Fall,Comedy,7116,3027,70228,22734
+81,Tokyo Ghoul 80,5.98,99,Currently Airing,2005,Spring,Horror,6539,483,301938,39224
+82,Jujutsu Kaisen 81,7.49,95,Finished Airing,2000,Winter,Drama,5192,4722,52628,29967
+83,Death Note 82,5.66,18,Finished Airing,2005,Fall,Action,2235,1464,776715,10398
+84,Fullmetal Alchemist 83,7.69,15,Currently Airing,2011,Winter,Comedy,3046,1259,444279,18192
+85,Jujutsu Kaisen 84,6.29,48,Currently Airing,2016,Summer,Adventure,779,792,279276,23037
+86,Demon Slayer 85,7.55,32,Currently Airing,2024,Summer,Action,7196,3679,325754,26713
+87,One Piece 86,6.55,50,Currently Airing,2009,Winter,Drama,4704,3241,347487,34792
+88,Demon Slayer 87,8.32,1,Currently Airing,2001,Fall,Sci-Fi,8458,1065,284158,12403
+89,Tokyo Ghoul 88,9.74,11,Finished Airing,2011,Summer,Adventure,6275,768,720907,13965
+90,Fullmetal Alchemist 89,7.31,39,Currently Airing,2014,Summer,Horror,9269,2701,991641,16032
+91,Death Note 90,9.12,62,Currently Airing,2018,Fall,Drama,6368,1084,378692,5980
+92,Demon Slayer 91,8.71,44,Currently Airing,2023,Winter,Adventure,3090,2564,429838,13056
+93,Naruto 92,9.38,83,Currently Airing,2003,Summer,Comedy,5872,2551,993008,1582
+94,Dragon Ball 93,8.71,57,Currently Airing,2004,Spring,Horror,400,4703,538223,31069
+95,Demon Slayer 94,8.75,9,Finished Airing,2009,Summer,Horror,9634,3463,108748,15181
+96,Death Note 95,8.04,49,Currently Airing,2005,Spring,Fantasy,5172,4430,54591,16421
+97,One Piece 96,5.02,32,Finished Airing,2006,Spring,Fantasy,2579,346,124182,6767
+98,Death Note 97,6.63,94,Currently Airing,2001,Summer,Drama,8246,2885,180633,10658
+99,Death Note 98,5.18,89,Currently Airing,2014,Spring,Sci-Fi,6566,3644,431992,20280
+100,Dragon Ball 99,7.68,86,Currently Airing,2019,Fall,Action,2061,536,223660,1811
+101,Death Note 100,5.49,52,Finished Airing,2014,Summer,Horror,2737,1740,354083,17397
+102,My Hero Academia 101,7.32,86,Finished Airing,2010,Winter,Fantasy,2957,1758,513949,1644
+103,Demon Slayer 102,6.59,73,Finished Airing,2018,Winter,Drama,5993,1221,328753,6923
+104,Attack on Titan 103,5.92,61,Currently Airing,2013,Winter,Drama,8895,4606,101747,49859
+105,One Piece 104,9.55,19,Finished Airing,2007,Fall,Sci-Fi,333,4151,991701,22906
+106,Attack on Titan 105,5.49,60,Currently Airing,2001,Summer,Drama,7378,4351,659329,26041
+107,My Hero Academia 106,7.13,49,Currently Airing,2017,Winter,Romance,8209,249,450538,32957
+108,Demon Slayer 107,6.24,3,Finished Airing,2002,Summer,Adventure,5509,2445,110941,42839
+109,Jujutsu Kaisen 108,7.73,88,Currently Airing,2007,Fall,Adventure,2399,1175,587620,722
+110,Death Note 109,8.22,3,Currently Airing,2019,Fall,Romance,3683,4769,772538,10445
+111,Fullmetal Alchemist 110,5.21,72,Currently Airing,2021,Fall,Comedy,2032,91,482652,34437
+112,Naruto 111,6.82,22,Currently Airing,2005,Winter,Horror,5005,4225,398819,21243
+113,Attack on Titan 112,6.82,42,Finished Airing,2006,Fall,Drama,9013,3745,158914,27801
+114,Jujutsu Kaisen 113,7.01,92,Finished Airing,2011,Spring,Sci-Fi,1372,4364,120832,8723
+115,Fullmetal Alchemist 114,7.27,78,Currently Airing,2008,Winter,Adventure,2058,1126,6412,12346
+116,My Hero Academia 115,5.16,26,Finished Airing,2015,Winter,Horror,614,4013,117290,27069
+117,Death Note 116,6.04,93,Currently Airing,2019,Fall,Comedy,219,3319,56416,22423
+118,Fullmetal Alchemist 117,7.06,53,Finished Airing,2008,Fall,Comedy,5840,4075,946304,28975
+119,Tokyo Ghoul 118,5.93,15,Finished Airing,2006,Spring,Sci-Fi,1803,1086,54391,33830
+120,Fullmetal Alchemist 119,8.04,77,Finished Airing,2023,Fall,Adventure,2042,251,453746,13057
+121,My Hero Academia 120,5.87,17,Finished Airing,2018,Summer,Comedy,2487,2151,893275,19015
+122,Fullmetal Alchemist 121,7.29,96,Currently Airing,2019,Spring,Adventure,520,4195,843893,48851
+123,Death Note 122,7.29,26,Finished Airing,2012,Fall,Sci-Fi,7137,1815,565634,40109
+124,Tokyo Ghoul 123,5.2,49,Currently Airing,2021,Summer,Fantasy,370,3333,358670,45120
+125,Naruto 124,6.72,71,Finished Airing,2015,Winter,Comedy,4816,829,276521,16862
+126,Fullmetal Alchemist 125,5.71,87,Finished Airing,2007,Spring,Fantasy,4871,994,972036,26489
+127,Attack on Titan 126,5.59,14,Currently Airing,2016,Winter,Action,8738,269,802302,22620
+128,Demon Slayer 127,7.93,74,Currently Airing,2005,Summer,Action,2683,571,468070,17040
+129,Demon Slayer 128,7.61,91,Currently Airing,2004,Spring,Action,8435,4806,343538,38815
+130,Naruto 129,7.58,67,Currently Airing,2010,Fall,Comedy,2721,2922,600169,40301
+131,Naruto 130,8.14,94,Finished Airing,2024,Winter,Sci-Fi,2459,4359,287494,23913
+132,Dragon Ball 131,7.84,54,Currently Airing,2012,Winter,Drama,7339,1760,835428,12015
+133,Jujutsu Kaisen 132,8.38,90,Finished Airing,2003,Fall,Action,4634,4750,195400,33080
+134,My Hero Academia 133,8.42,65,Currently Airing,2009,Fall,Romance,2823,179,87252,46451
+135,Naruto 134,9.39,92,Currently Airing,2009,Spring,Comedy,2625,49,282189,48562
+136,Jujutsu Kaisen 135,8.67,32,Finished Airing,2001,Fall,Romance,5797,4850,596042,1068
+137,Death Note 136,9.69,96,Currently Airing,2002,Fall,Fantasy,8702,835,634699,38285
+138,Dragon Ball 137,9.16,48,Finished Airing,2002,Winter,Adventure,5376,260,253301,44348
+139,Tokyo Ghoul 138,5.22,64,Currently Airing,2009,Winter,Action,2693,2824,947782,12506
+140,Naruto 139,9.21,31,Currently Airing,2012,Summer,Comedy,8291,3261,84571,5037
+141,My Hero Academia 140,5.16,46,Currently Airing,2002,Spring,Sci-Fi,6787,963,843912,4588
+142,One Piece 141,6.42,57,Currently Airing,2024,Spring,Romance,5167,4973,932632,1361
+143,Death Note 142,5.83,78,Finished Airing,2010,Summer,Action,4440,1861,902188,34574
+144,Tokyo Ghoul 143,5.36,22,Currently Airing,2007,Winter,Comedy,5135,4512,376663,23871
+145,Death Note 144,6.85,1,Currently Airing,2019,Winter,Adventure,2825,1505,402401,18570
+146,One Piece 145,9.27,38,Currently Airing,2021,Spring,Drama,5748,4592,309487,13552
+147,Fullmetal Alchemist 146,7.94,78,Finished Airing,2003,Winter,Horror,6714,2112,688006,25509
+148,Demon Slayer 147,6.94,68,Finished Airing,2012,Winter,Sci-Fi,7250,2631,882837,42587
+149,Demon Slayer 148,6.07,38,Currently Airing,2006,Fall,Action,428,1275,718772,41967
+150,Attack on Titan 149,8.18,31,Currently Airing,2014,Summer,Romance,1485,175,521741,14571
+151,Fullmetal Alchemist 150,7.31,59,Currently Airing,2015,Spring,Fantasy,7913,286,280048,20314
+152,Dragon Ball 151,6.15,78,Currently Airing,2013,Winter,Comedy,7266,3850,889107,41152
+153,Tokyo Ghoul 152,7.33,38,Finished Airing,2019,Summer,Comedy,2932,3039,751084,10755
+154,My Hero Academia 153,6.17,86,Currently Airing,2013,Spring,Action,8262,4067,894177,15265
+155,Attack on Titan 154,5.18,58,Finished Airing,2011,Winter,Sci-Fi,1826,1370,473294,47720
+156,Naruto 155,6.56,7,Finished Airing,2003,Winter,Sci-Fi,6243,4787,127760,32979
+157,Naruto 156,6.32,6,Finished Airing,2018,Summer,Fantasy,6290,4681,870646,25487
+158,Tokyo Ghoul 157,6.69,100,Currently Airing,2003,Spring,Comedy,3141,4574,954780,10695
+159,Dragon Ball 158,9.53,9,Finished Airing,2016,Fall,Horror,4681,362,549100,42074
+160,Attack on Titan 159,5.85,9,Currently Airing,2002,Fall,Sci-Fi,6581,345,919109,12258
+161,One Piece 160,8.07,58,Currently Airing,2023,Spring,Adventure,3582,2101,71640,7280
+162,One Piece 161,6.14,13,Currently Airing,2001,Spring,Horror,8121,3187,247907,2496
+163,Attack on Titan 162,5.5,75,Currently Airing,2000,Winter,Action,9870,510,635191,5700
+164,One Piece 163,9.28,20,Currently Airing,2022,Summer,Fantasy,7728,1155,712138,21830
+165,Attack on Titan 164,8.03,24,Finished Airing,2008,Winter,Sci-Fi,9398,1875,237552,45140
+166,Naruto 165,5.98,36,Finished Airing,2001,Summer,Romance,7537,3522,93687,35347
+167,Attack on Titan 166,9.48,38,Finished Airing,2017,Winter,Drama,3618,359,387057,45430
+168,Death Note 167,9.15,61,Finished Airing,2000,Summer,Romance,3517,1465,184642,20679
+169,One Piece 168,6.34,92,Finished Airing,2001,Spring,Adventure,294,34,483858,14241
+170,Fullmetal Alchemist 169,9.86,93,Currently Airing,2008,Summer,Adventure,6047,1766,333393,7837
+171,My Hero Academia 170,6.0,16,Currently Airing,2018,Spring,Drama,4741,1619,25555,23389
+172,Demon Slayer 171,6.96,17,Currently Airing,2002,Fall,Adventure,4493,785,159767,19777
+173,One Piece 172,8.75,17,Finished Airing,2015,Winter,Action,486,951,381152,11470
+174,Demon Slayer 173,8.37,50,Finished Airing,2001,Winter,Fantasy,6482,4136,384050,7679
+175,Jujutsu Kaisen 174,7.55,6,Finished Airing,2020,Summer,Drama,6959,1375,151978,24964
+176,My Hero Academia 175,9.58,83,Currently Airing,2011,Fall,Sci-Fi,7702,3340,969939,1145
+177,Fullmetal Alchemist 176,7.21,39,Finished Airing,2003,Spring,Fantasy,9654,731,479736,23314
+178,One Piece 177,7.38,31,Currently Airing,2002,Summer,Drama,2954,451,965297,27318
+179,One Piece 178,7.13,24,Currently Airing,2020,Winter,Sci-Fi,2406,1290,109492,20400
+180,Jujutsu Kaisen 179,9.87,39,Finished Airing,2016,Winter,Drama,3194,4781,741926,13830
+181,My Hero Academia 180,8.84,53,Finished Airing,2016,Summer,Drama,159,3812,509385,14248
+182,Fullmetal Alchemist 181,5.79,95,Finished Airing,2003,Summer,Comedy,2641,3633,575733,953
+183,Attack on Titan 182,6.11,100,Currently Airing,2014,Fall,Comedy,4045,4734,233840,31251
+184,Jujutsu Kaisen 183,7.3,21,Finished Airing,2021,Fall,Horror,534,3169,106875,3261
+185,One Piece 184,6.33,35,Finished Airing,2004,Fall,Action,7857,4700,567101,38966
+186,Fullmetal Alchemist 185,7.61,77,Currently Airing,2013,Spring,Action,4241,1020,124088,28938
+187,My Hero Academia 186,8.69,97,Currently Airing,2006,Spring,Fantasy,6944,3517,255485,31575
+188,Tokyo Ghoul 187,7.95,76,Finished Airing,2004,Spring,Action,1793,1238,355560,910
+189,Death Note 188,9.34,60,Finished Airing,2010,Winter,Comedy,2548,4964,253441,20778
+190,Attack on Titan 189,6.19,82,Currently Airing,2023,Winter,Comedy,2840,686,299852,20567
+191,Death Note 190,6.61,95,Finished Airing,2008,Winter,Sci-Fi,9665,4193,1969,32175
+192,One Piece 191,9.12,43,Currently Airing,2018,Fall,Fantasy,647,3399,149501,24589
+193,Demon Slayer 192,7.93,91,Currently Airing,2005,Spring,Adventure,8787,198,565743,17860
+194,Demon Slayer 193,8.66,35,Finished Airing,2022,Summer,Fantasy,7888,799,818974,40606
+195,Death Note 194,9.75,77,Finished Airing,2007,Fall,Comedy,5776,1571,470108,33012
+196,Jujutsu Kaisen 195,6.09,60,Currently Airing,2015,Summer,Fantasy,4266,1068,39767,31791
+197,Jujutsu Kaisen 196,9.58,27,Currently Airing,2019,Summer,Sci-Fi,4441,2516,197339,8622
+198,Fullmetal Alchemist 197,8.15,27,Finished Airing,2015,Spring,Adventure,2153,826,256893,20138
+199,Attack on Titan 198,5.21,44,Finished Airing,2009,Fall,Action,7740,1360,739038,28710
+200,My Hero Academia 199,7.41,12,Currently Airing,2003,Winter,Adventure,9636,513,632174,4952
+201,Demon Slayer 200,7.58,71,Finished Airing,2011,Fall,Action,1896,4768,909130,44825
+202,Demon Slayer 201,6.87,73,Finished Airing,2022,Spring,Adventure,6817,1408,257025,5410
+203,Tokyo Ghoul 202,6.94,58,Finished Airing,2008,Summer,Action,5849,3292,777048,19713
+204,Jujutsu Kaisen 203,5.69,32,Currently Airing,2020,Spring,Romance,7848,3638,969958,7868
+205,Death Note 204,7.06,15,Finished Airing,2011,Summer,Adventure,1640,2537,4949,14968
+206,My Hero Academia 205,5.26,15,Finished Airing,2021,Spring,Comedy,5883,916,189375,17145
+207,Tokyo Ghoul 206,5.24,19,Finished Airing,2001,Spring,Comedy,1915,3172,712590,7070
+208,Death Note 207,7.59,54,Currently Airing,2004,Spring,Action,6243,2107,345736,38658
+209,Jujutsu Kaisen 208,6.64,46,Finished Airing,2011,Winter,Romance,4605,4292,42976,37587
+210,One Piece 209,7.09,58,Currently Airing,2003,Summer,Adventure,1999,2292,440962,35917
+211,Jujutsu Kaisen 210,9.78,67,Currently Airing,2002,Fall,Adventure,4855,1334,43460,12988
+212,My Hero Academia 211,6.72,36,Finished Airing,2013,Winter,Action,1709,4866,61644,8961
+213,Demon Slayer 212,6.64,54,Finished Airing,2019,Winter,Romance,7475,3932,473837,5066
+214,My Hero Academia 213,9.64,27,Currently Airing,2021,Winter,Fantasy,8657,3978,321193,7976
+215,Naruto 214,8.0,38,Finished Airing,2008,Winter,Comedy,9232,427,260580,31186
+216,My Hero Academia 215,9.68,94,Finished Airing,2000,Fall,Drama,5223,3538,345872,35372
+217,Attack on Titan 216,8.44,42,Finished Airing,2013,Summer,Action,622,4705,844460,17964
+218,Attack on Titan 217,5.79,48,Finished Airing,2010,Spring,Fantasy,849,3082,953681,3031
+219,Death Note 218,9.43,95,Currently Airing,2008,Spring,Drama,9782,45,260891,29021
+220,Jujutsu Kaisen 219,6.31,32,Finished Airing,2001,Spring,Horror,7286,3846,866013,20303
+221,Jujutsu Kaisen 220,5.78,90,Currently Airing,2021,Fall,Adventure,3724,4977,634771,49098
+222,Dragon Ball 221,9.64,72,Finished Airing,2011,Summer,Drama,1569,1973,528806,30705
+223,Fullmetal Alchemist 222,5.77,44,Currently Airing,2004,Spring,Action,5360,1085,10563,22396
+224,Attack on Titan 223,7.49,37,Currently Airing,2023,Spring,Comedy,731,561,691049,4136
+225,Tokyo Ghoul 224,8.47,44,Currently Airing,2019,Winter,Romance,706,188,429461,17044
+226,Attack on Titan 225,7.21,34,Finished Airing,2013,Spring,Action,2761,4934,195118,15720
+227,Death Note 226,9.28,50,Currently Airing,2018,Fall,Drama,478,4093,974624,12260
+228,Attack on Titan 227,7.09,70,Finished Airing,2018,Summer,Action,8822,4300,511951,49611
+229,Attack on Titan 228,6.55,20,Finished Airing,2013,Winter,Comedy,9811,1989,603124,45981
+230,Dragon Ball 229,8.88,22,Finished Airing,2014,Fall,Adventure,3109,2766,590128,890
+231,Fullmetal Alchemist 230,6.9,45,Currently Airing,2006,Summer,Adventure,626,1427,242445,1848
+232,Attack on Titan 231,7.15,26,Finished Airing,2001,Spring,Drama,6586,3629,311093,11937
+233,Death Note 232,8.14,63,Finished Airing,2022,Summer,Romance,8575,3320,262597,4413
+234,My Hero Academia 233,8.7,71,Currently Airing,2008,Spring,Fantasy,6940,4487,34682,4204
+235,Tokyo Ghoul 234,5.19,38,Currently Airing,2006,Fall,Drama,2283,4252,272848,15656
+236,Jujutsu Kaisen 235,6.02,55,Currently Airing,2021,Spring,Horror,9826,1423,476873,10712
+237,Tokyo Ghoul 236,7.07,56,Finished Airing,2009,Spring,Horror,3083,4132,431628,9205
+238,Tokyo Ghoul 237,7.4,38,Finished Airing,2007,Winter,Sci-Fi,1223,4414,547989,39332
+239,Naruto 238,9.23,95,Finished Airing,2004,Summer,Drama,9793,4411,758962,29207
+240,Demon Slayer 239,7.57,55,Finished Airing,2002,Spring,Comedy,3837,3931,742602,22959
+241,Death Note 240,5.69,89,Finished Airing,2013,Spring,Horror,9524,417,995739,963
+242,Jujutsu Kaisen 241,8.57,63,Finished Airing,2000,Spring,Adventure,7960,3493,838042,28213
+243,My Hero Academia 242,8.32,18,Finished Airing,2012,Summer,Sci-Fi,4083,4528,870043,47417
+244,Demon Slayer 243,6.37,3,Currently Airing,2004,Spring,Horror,806,4211,389601,21975
+245,My Hero Academia 244,7.29,89,Finished Airing,2009,Fall,Action,5064,2771,112489,39316
+246,Fullmetal Alchemist 245,6.74,48,Currently Airing,2003,Summer,Drama,5385,3909,435666,26375
+247,My Hero Academia 246,8.63,41,Currently Airing,2002,Spring,Action,7821,4621,254251,21111
+248,My Hero Academia 247,6.5,97,Finished Airing,2006,Fall,Action,9539,4144,377345,25297
+249,Dragon Ball 248,7.41,36,Currently Airing,2001,Spring,Action,3307,2700,497698,19129
+250,Fullmetal Alchemist 249,5.01,17,Finished Airing,2003,Spring,Horror,4587,2899,796906,1990
+251,My Hero Academia 250,8.13,53,Finished Airing,2019,Summer,Action,4851,4509,225473,45906
+252,Naruto 251,5.3,64,Currently Airing,2003,Spring,Drama,3990,4580,413811,3169
+253,Tokyo Ghoul 252,6.17,78,Finished Airing,2002,Spring,Fantasy,5174,887,115025,37966
+254,Attack on Titan 253,9.38,86,Currently Airing,2003,Winter,Drama,7834,4753,987254,42256
+255,My Hero Academia 254,8.47,8,Finished Airing,2011,Summer,Sci-Fi,9750,4777,785928,18050
+256,Demon Slayer 255,9.63,19,Currently Airing,2010,Spring,Sci-Fi,7646,3941,478229,3599
+257,Demon Slayer 256,8.13,12,Currently Airing,2021,Summer,Horror,6605,3363,86774,17829
+258,Naruto 257,9.5,81,Finished Airing,2006,Winter,Horror,727,1308,870601,968
+259,Attack on Titan 258,5.63,14,Currently Airing,2005,Winter,Horror,1846,3330,43721,27936
+260,Jujutsu Kaisen 259,5.83,97,Currently Airing,2009,Winter,Romance,7568,4463,364634,6857
+261,Fullmetal Alchemist 260,6.49,17,Finished Airing,2002,Spring,Horror,2847,2904,123943,20581
+262,Dragon Ball 261,8.22,63,Currently Airing,2023,Fall,Fantasy,6698,3988,522431,11322
+263,My Hero Academia 262,7.38,48,Currently Airing,2020,Summer,Comedy,5876,1601,627866,20573
+264,Demon Slayer 263,6.59,94,Currently Airing,2012,Fall,Comedy,2062,4451,499568,34134
+265,Demon Slayer 264,9.23,95,Currently Airing,2010,Spring,Action,7898,1399,451973,41665
+266,Demon Slayer 265,7.02,100,Finished Airing,2018,Spring,Sci-Fi,721,1989,483696,28296
+267,Tokyo Ghoul 266,6.72,15,Currently Airing,2017,Spring,Horror,6035,4833,410822,30322
+268,Death Note 267,9.9,5,Currently Airing,2023,Fall,Comedy,3479,1751,721725,46003
+269,Naruto 268,8.48,83,Finished Airing,2016,Winter,Comedy,7024,359,412097,7853
+270,Attack on Titan 269,7.88,22,Finished Airing,2001,Summer,Romance,9807,3301,163387,1090
+271,Tokyo Ghoul 270,7.64,43,Finished Airing,2022,Summer,Action,6388,1303,718816,31241
+272,Fullmetal Alchemist 271,9.61,55,Currently Airing,2019,Summer,Action,1653,4662,796299,48349
+273,One Piece 272,7.79,24,Currently Airing,2000,Spring,Romance,4356,2174,377152,25708
+274,Jujutsu Kaisen 273,5.82,51,Currently Airing,2013,Spring,Horror,1596,3355,339676,14070
+275,Jujutsu Kaisen 274,5.08,75,Currently Airing,2004,Fall,Fantasy,4366,4951,313391,33801
+276,Jujutsu Kaisen 275,9.81,57,Finished Airing,2021,Summer,Comedy,6602,1610,281458,45982
+277,Fullmetal Alchemist 276,9.71,35,Finished Airing,2001,Spring,Sci-Fi,3634,1493,753187,946
+278,Naruto 277,7.64,97,Finished Airing,2024,Winter,Sci-Fi,473,3920,695561,9610
+279,My Hero Academia 278,5.15,9,Finished Airing,2003,Winter,Horror,9230,1501,114412,30687
+280,Fullmetal Alchemist 279,8.38,60,Currently Airing,2016,Winter,Fantasy,3829,3081,906371,43391
+281,Fullmetal Alchemist 280,8.87,1,Currently Airing,2005,Summer,Comedy,9869,3031,946008,42391
+282,Attack on Titan 281,9.5,63,Finished Airing,2005,Winter,Adventure,5691,1958,499574,42178
+283,Fullmetal Alchemist 282,5.41,64,Currently Airing,2004,Summer,Fantasy,5262,2013,598529,34537
+284,Death Note 283,8.31,31,Finished Airing,2000,Fall,Action,1213,1610,330742,36969
+285,Death Note 284,8.08,18,Currently Airing,2006,Spring,Romance,1681,768,371038,27955
+286,Attack on Titan 285,6.41,37,Finished Airing,2001,Fall,Romance,7016,3545,725167,32490
+287,Demon Slayer 286,8.99,67,Currently Airing,2018,Spring,Drama,8877,243,337822,31782
+288,Naruto 287,8.62,82,Finished Airing,2018,Winter,Adventure,6841,2520,150182,42615
+289,Dragon Ball 288,8.58,39,Currently Airing,2012,Spring,Adventure,7602,2619,246703,22852
+290,Dragon Ball 289,5.83,43,Currently Airing,2022,Winter,Fantasy,7127,1327,975630,21213
+291,Death Note 290,9.97,5,Currently Airing,2004,Fall,Action,5318,422,585237,12571
+292,Tokyo Ghoul 291,6.14,14,Finished Airing,2021,Winter,Action,3441,1526,524556,39646
+293,Death Note 292,6.96,14,Currently Airing,2007,Summer,Romance,279,3115,85545,46748
+294,Tokyo Ghoul 293,8.75,12,Currently Airing,2005,Fall,Sci-Fi,8053,2025,274029,2287
+295,Attack on Titan 294,8.09,13,Currently Airing,2004,Summer,Drama,7007,3282,49449,23784
+296,One Piece 295,8.67,17,Currently Airing,2010,Winter,Comedy,8639,3118,885962,11971
+297,Demon Slayer 296,6.9,54,Finished Airing,2014,Winter,Drama,2335,1770,162808,14958
+298,One Piece 297,9.82,92,Currently Airing,2021,Fall,Comedy,2850,3636,250115,41057
+299,Attack on Titan 298,5.72,38,Currently Airing,2011,Fall,Comedy,3384,2468,496033,30724
+300,Tokyo Ghoul 299,9.04,55,Finished Airing,2018,Spring,Action,5037,2506,389149,34089
+301,One Piece 300,5.86,8,Finished Airing,2003,Winter,Fantasy,9161,1019,456271,17599
+302,Jujutsu Kaisen 301,9.63,95,Finished Airing,2011,Fall,Fantasy,3529,336,889339,40497
+303,My Hero Academia 302,8.38,4,Finished Airing,2023,Winter,Fantasy,2278,4820,253754,22229
+304,Demon Slayer 303,9.83,41,Finished Airing,2011,Winter,Romance,1572,2715,381064,10110
+305,Naruto 304,6.68,77,Currently Airing,2010,Spring,Sci-Fi,3989,4897,742268,27987
+306,Tokyo Ghoul 305,8.39,88,Finished Airing,2007,Fall,Adventure,2659,3438,721082,23877
+307,One Piece 306,6.99,18,Currently Airing,2018,Winter,Action,4909,3067,52283,46792
+308,One Piece 307,8.04,57,Currently Airing,2024,Winter,Romance,223,1448,983163,32814
+309,Demon Slayer 308,9.03,49,Currently Airing,2022,Spring,Sci-Fi,5588,1924,173647,32322
+310,Jujutsu Kaisen 309,7.29,91,Finished Airing,2005,Summer,Comedy,359,1279,428638,8095
+311,Death Note 310,6.83,7,Finished Airing,2024,Winter,Comedy,1538,494,295116,38274
+312,Jujutsu Kaisen 311,6.96,84,Currently Airing,2000,Spring,Fantasy,3249,351,477775,39003
+313,Fullmetal Alchemist 312,7.62,12,Finished Airing,2005,Winter,Comedy,1901,1401,455821,39689
+314,Attack on Titan 313,5.71,89,Currently Airing,2003,Fall,Drama,4434,4486,430626,41777
+315,Fullmetal Alchemist 314,8.98,21,Currently Airing,2020,Summer,Comedy,1520,796,602158,9407
+316,Demon Slayer 315,6.72,65,Finished Airing,2000,Summer,Adventure,1863,1742,63053,48498
+317,Dragon Ball 316,8.98,61,Currently Airing,2020,Summer,Sci-Fi,5429,2781,303213,10983
+318,Death Note 317,9.82,92,Finished Airing,2003,Fall,Horror,2225,3374,478426,41819
+319,Fullmetal Alchemist 318,5.6,15,Currently Airing,2012,Winter,Comedy,9562,402,584545,19117
+320,Dragon Ball 319,6.41,20,Finished Airing,2013,Fall,Sci-Fi,8097,760,190292,23573
+321,Attack on Titan 320,9.69,69,Currently Airing,2021,Summer,Comedy,3572,1230,76815,37908
+322,Attack on Titan 321,7.44,5,Currently Airing,2007,Summer,Sci-Fi,2622,316,289006,23556
+323,Naruto 322,7.86,12,Finished Airing,2012,Spring,Romance,6517,2760,599565,7421
+324,Attack on Titan 323,9.65,77,Currently Airing,2006,Spring,Drama,4898,3393,19766,17450
+325,Demon Slayer 324,5.16,49,Currently Airing,2001,Winter,Comedy,7355,220,453789,36214
+326,Tokyo Ghoul 325,8.48,32,Finished Airing,2011,Summer,Sci-Fi,9574,1281,878207,45375
+327,Jujutsu Kaisen 326,5.65,35,Currently Airing,2001,Spring,Drama,7967,4540,187312,2477
+328,Tokyo Ghoul 327,5.15,21,Currently Airing,2007,Winter,Sci-Fi,5011,282,185107,18931
+329,Tokyo Ghoul 328,6.59,66,Finished Airing,2004,Spring,Fantasy,7570,4446,282134,19196
+330,One Piece 329,9.58,50,Finished Airing,2016,Winter,Drama,8162,3197,94507,16312
+331,Naruto 330,8.1,27,Finished Airing,2020,Fall,Adventure,669,3811,449144,1313
+332,Fullmetal Alchemist 331,6.46,64,Finished Airing,2023,Summer,Comedy,1545,1824,651642,49025
+333,Jujutsu Kaisen 332,6.61,79,Finished Airing,2001,Fall,Drama,3003,2573,586449,47856
+334,Naruto 333,9.29,14,Currently Airing,2021,Fall,Fantasy,27,1806,57340,26637
+335,My Hero Academia 334,9.92,24,Finished Airing,2024,Fall,Action,3902,4583,107091,22095
+336,Attack on Titan 335,7.12,94,Currently Airing,2019,Fall,Action,7622,4091,73861,19989
+337,Death Note 336,6.28,49,Finished Airing,2018,Spring,Drama,617,160,251916,37632
+338,Dragon Ball 337,6.48,96,Currently Airing,2024,Summer,Sci-Fi,1696,1152,867586,36926
+339,Attack on Titan 338,6.77,62,Finished Airing,2001,Summer,Fantasy,5220,4298,919429,27382
+340,Naruto 339,5.21,49,Finished Airing,2011,Spring,Drama,5312,2414,872924,14428
+341,Dragon Ball 340,9.18,77,Finished Airing,2005,Spring,Comedy,6627,207,886922,7295
+342,One Piece 341,5.46,94,Finished Airing,2014,Fall,Horror,5273,2255,794277,13955
+343,Naruto 342,7.27,91,Currently Airing,2015,Spring,Horror,5518,1076,766510,22055
+344,Dragon Ball 343,5.29,65,Finished Airing,2022,Fall,Horror,9146,2588,986884,40349
+345,Death Note 344,8.58,62,Currently Airing,2008,Spring,Fantasy,6324,4433,950943,6433
+346,Tokyo Ghoul 345,8.74,2,Finished Airing,2023,Summer,Action,2765,298,263695,33069
+347,Dragon Ball 346,8.43,30,Currently Airing,2023,Fall,Fantasy,8601,136,648265,17090
+348,Death Note 347,9.82,4,Finished Airing,2001,Spring,Romance,7863,930,895237,33797
+349,My Hero Academia 348,8.76,22,Currently Airing,2001,Summer,Sci-Fi,1538,2212,816679,48713
+350,Naruto 349,7.34,6,Finished Airing,2020,Fall,Drama,1652,829,561482,11974
+351,Death Note 350,7.46,82,Currently Airing,2019,Winter,Comedy,4146,1673,860999,40760
+352,Dragon Ball 351,8.88,45,Finished Airing,2023,Winter,Sci-Fi,8719,2165,794402,22450
+353,Attack on Titan 352,9.61,65,Finished Airing,2017,Fall,Drama,1385,473,983812,1721
+354,One Piece 353,9.26,63,Finished Airing,2007,Fall,Adventure,3448,3548,539645,18088
+355,Naruto 354,9.64,58,Currently Airing,2020,Summer,Action,5996,4260,481114,21588
+356,My Hero Academia 355,7.22,65,Finished Airing,2004,Fall,Comedy,3674,3554,956376,46488
+357,Tokyo Ghoul 356,5.83,66,Finished Airing,2015,Fall,Horror,5148,2174,395544,2624
+358,Naruto 357,9.65,33,Currently Airing,2011,Fall,Adventure,844,4511,328695,24530
+359,Tokyo Ghoul 358,7.92,18,Currently Airing,2003,Winter,Adventure,8025,2437,394811,3768
+360,Death Note 359,9.01,13,Finished Airing,2013,Spring,Sci-Fi,4013,972,274325,25270
+361,My Hero Academia 360,5.3,95,Currently Airing,2009,Spring,Fantasy,1121,2442,823699,29992
+362,One Piece 361,7.69,39,Finished Airing,2011,Winter,Horror,7615,2870,652397,4381
+363,Attack on Titan 362,5.31,65,Currently Airing,2009,Spring,Fantasy,8340,4897,863639,33007
+364,Death Note 363,8.5,39,Finished Airing,2015,Summer,Horror,2340,174,280229,20638
+365,Tokyo Ghoul 364,9.0,74,Currently Airing,2024,Fall,Romance,7573,809,987300,20867
+366,Death Note 365,6.51,28,Finished Airing,2012,Winter,Action,1478,4527,326892,10959
+367,Tokyo Ghoul 366,6.49,24,Finished Airing,2001,Winter,Comedy,6172,2795,472681,17254
+368,My Hero Academia 367,7.49,62,Finished Airing,2013,Winter,Comedy,349,665,167325,24420
+369,Fullmetal Alchemist 368,6.76,53,Finished Airing,2019,Spring,Sci-Fi,9128,4743,536322,38695
+370,Attack on Titan 369,9.2,96,Finished Airing,2003,Spring,Adventure,8049,3271,253316,30301
+371,Demon Slayer 370,5.56,21,Currently Airing,2004,Winter,Romance,2444,637,235531,29766
+372,Tokyo Ghoul 371,6.55,84,Currently Airing,2016,Winter,Comedy,5628,2222,562636,39089
+373,Death Note 372,6.91,43,Finished Airing,2005,Winter,Fantasy,5163,4130,507200,32698
+374,Attack on Titan 373,8.6,62,Currently Airing,2019,Summer,Action,7472,3487,459529,30834
+375,My Hero Academia 374,5.51,3,Finished Airing,2007,Summer,Sci-Fi,2018,397,972458,14439
+376,One Piece 375,5.88,25,Currently Airing,2017,Fall,Sci-Fi,3882,4302,128723,45719
+377,Death Note 376,6.41,69,Currently Airing,2019,Winter,Horror,585,3076,226945,11380
+378,Tokyo Ghoul 377,9.33,12,Currently Airing,2007,Fall,Romance,4131,2070,297167,10672
+379,Jujutsu Kaisen 378,5.26,46,Currently Airing,2021,Fall,Fantasy,2355,1611,797747,45829
+380,Dragon Ball 379,6.77,15,Finished Airing,2016,Winter,Horror,8048,1939,41007,16574
+381,Dragon Ball 380,8.25,65,Currently Airing,2012,Fall,Action,1651,4397,940002,42503
+382,Tokyo Ghoul 381,6.24,53,Finished Airing,2012,Winter,Drama,4792,3172,920060,17139
+383,Naruto 382,8.13,50,Currently Airing,2001,Summer,Fantasy,5178,839,431824,3131
+384,Naruto 383,6.8,68,Finished Airing,2022,Spring,Drama,9223,4298,588456,6366
+385,Dragon Ball 384,8.88,99,Finished Airing,2020,Fall,Adventure,1946,3546,431755,48970
+386,One Piece 385,6.37,34,Currently Airing,2008,Winter,Drama,472,4696,724758,49672
+387,Death Note 386,7.65,24,Finished Airing,2017,Spring,Fantasy,2648,3312,487437,24289
+388,My Hero Academia 387,8.31,16,Currently Airing,2007,Summer,Adventure,2966,551,960362,22627
+389,Fullmetal Alchemist 388,8.77,19,Finished Airing,2007,Winter,Horror,8653,4548,646222,4013
+390,Tokyo Ghoul 389,8.62,49,Currently Airing,2012,Fall,Sci-Fi,8052,1810,231117,44408
+391,Dragon Ball 390,5.99,98,Finished Airing,2019,Spring,Horror,7557,3792,769804,42402
+392,One Piece 391,5.55,77,Currently Airing,2009,Winter,Fantasy,600,330,991937,31297
+393,Dragon Ball 392,7.14,7,Currently Airing,2007,Winter,Drama,1982,2578,956968,18896
+394,One Piece 393,6.81,45,Finished Airing,2002,Spring,Adventure,3827,1961,453602,28521
+395,My Hero Academia 394,8.49,8,Finished Airing,2000,Winter,Adventure,9394,3918,437770,47649
+396,My Hero Academia 395,5.1,85,Finished Airing,2000,Fall,Action,6613,2109,922927,37939
+397,My Hero Academia 396,6.44,28,Currently Airing,2024,Spring,Action,2834,3996,45885,47042
+398,Attack on Titan 397,8.14,18,Currently Airing,2019,Fall,Sci-Fi,9070,3688,392018,39233
+399,Naruto 398,9.04,69,Currently Airing,2005,Summer,Drama,921,234,732833,40063
+400,One Piece 399,5.17,15,Currently Airing,2023,Fall,Comedy,7777,2718,839867,38916
+401,Tokyo Ghoul 400,9.02,67,Finished Airing,2017,Summer,Fantasy,7188,245,223479,19627
+402,Demon Slayer 401,8.67,91,Currently Airing,2021,Winter,Horror,8473,2007,747728,49811
+403,Tokyo Ghoul 402,8.15,33,Currently Airing,2014,Winter,Drama,3742,2145,753491,29827
+404,Jujutsu Kaisen 403,7.64,13,Currently Airing,2020,Winter,Romance,8270,3297,449851,5670
+405,My Hero Academia 404,5.33,23,Finished Airing,2024,Summer,Sci-Fi,6143,787,62089,19169
+406,Demon Slayer 405,8.27,89,Currently Airing,2005,Spring,Action,3591,3090,722715,12051
+407,My Hero Academia 406,6.35,39,Finished Airing,2016,Winter,Fantasy,6481,2079,312361,45522
+408,Jujutsu Kaisen 407,6.46,86,Finished Airing,2012,Winter,Sci-Fi,465,4125,522152,27005
+409,Demon Slayer 408,5.04,76,Currently Airing,2020,Spring,Fantasy,4593,1598,982770,20489
+410,Death Note 409,6.31,94,Finished Airing,2017,Winter,Sci-Fi,7960,2855,25093,25186
+411,Attack on Titan 410,6.29,52,Currently Airing,2017,Summer,Action,1877,3021,402074,23891
+412,Dragon Ball 411,5.62,36,Currently Airing,2015,Fall,Adventure,7675,2660,91757,38773
+413,One Piece 412,6.69,84,Currently Airing,2005,Summer,Horror,2726,1644,798743,40480
+414,One Piece 413,8.28,98,Currently Airing,2022,Spring,Drama,1960,1860,725063,29859
+415,Dragon Ball 414,7.3,88,Currently Airing,2013,Winter,Comedy,316,118,78805,25993
+416,Naruto 415,8.22,62,Currently Airing,2004,Summer,Drama,203,2163,690680,41666
+417,Dragon Ball 416,9.31,87,Finished Airing,2016,Fall,Drama,9468,3554,967038,17849
+418,Demon Slayer 417,8.58,95,Finished Airing,2012,Winter,Action,9724,3535,364189,9661
+419,One Piece 418,6.72,60,Finished Airing,2010,Fall,Romance,8939,3098,321862,22127
+420,One Piece 419,9.09,18,Currently Airing,2022,Fall,Drama,4852,2570,90383,11677
+421,Jujutsu Kaisen 420,7.62,40,Finished Airing,2019,Winter,Action,7207,4886,802170,19346
+422,Tokyo Ghoul 421,8.09,16,Currently Airing,2020,Summer,Comedy,9220,1358,698688,48844
+423,Attack on Titan 422,7.4,43,Finished Airing,2024,Winter,Romance,927,3908,769180,25747
+424,Death Note 423,7.71,62,Currently Airing,2005,Fall,Horror,2135,4830,371521,46508
+425,Naruto 424,5.37,8,Finished Airing,2001,Summer,Action,5125,1322,654271,14460
+426,Naruto 425,7.55,22,Currently Airing,2017,Fall,Drama,3544,3127,965655,39494
+427,Jujutsu Kaisen 426,9.91,41,Currently Airing,2013,Fall,Romance,2903,3094,210856,6370
+428,Attack on Titan 427,6.15,67,Currently Airing,2006,Summer,Drama,5325,1622,463824,14126
+429,One Piece 428,5.28,6,Finished Airing,2007,Spring,Action,2072,2458,482022,23329
+430,Naruto 429,7.03,56,Currently Airing,2000,Summer,Comedy,5015,2618,230434,31679
+431,Tokyo Ghoul 430,6.94,38,Currently Airing,2010,Summer,Sci-Fi,2280,2237,975952,35781
+432,Attack on Titan 431,9.49,95,Finished Airing,2024,Spring,Drama,5594,3123,823732,15019
+433,Demon Slayer 432,5.53,37,Currently Airing,2002,Spring,Adventure,1451,1068,863940,28967
+434,One Piece 433,6.71,50,Currently Airing,2006,Winter,Action,5887,2364,548155,15794
+435,One Piece 434,9.8,18,Finished Airing,2020,Summer,Romance,5413,4975,990982,30943
+436,Jujutsu Kaisen 435,6.32,21,Finished Airing,2002,Summer,Adventure,1284,4197,674635,8532
+437,Fullmetal Alchemist 436,7.54,99,Currently Airing,2021,Summer,Fantasy,8539,1780,579708,10643
+438,Death Note 437,9.56,25,Finished Airing,2000,Fall,Romance,6806,3862,781448,232
+439,Naruto 438,5.52,74,Finished Airing,2019,Winter,Comedy,5678,1715,863959,30297
+440,Fullmetal Alchemist 439,5.76,66,Currently Airing,2006,Spring,Horror,2899,3095,976440,6505
+441,Dragon Ball 440,9.15,89,Finished Airing,2023,Summer,Romance,1585,3446,591601,46809
+442,Tokyo Ghoul 441,7.3,15,Finished Airing,2002,Summer,Romance,3179,4062,306162,19312
+443,Fullmetal Alchemist 442,5.97,23,Currently Airing,2002,Spring,Sci-Fi,548,1713,733543,11213
+444,Fullmetal Alchemist 443,6.13,99,Finished Airing,2010,Spring,Fantasy,4049,1451,772653,28862
+445,Demon Slayer 444,6.78,49,Finished Airing,2005,Fall,Drama,8966,67,821881,5455
+446,Tokyo Ghoul 445,9.65,7,Finished Airing,2011,Fall,Comedy,361,2966,391978,15738
+447,Attack on Titan 446,8.78,5,Currently Airing,2018,Fall,Comedy,7030,696,514400,9159
+448,Demon Slayer 447,5.68,2,Finished Airing,2024,Winter,Romance,6435,1852,69275,18409
+449,Attack on Titan 448,8.48,88,Currently Airing,2010,Summer,Horror,7797,2401,121756,14568
+450,Demon Slayer 449,6.56,40,Finished Airing,2019,Winter,Adventure,7134,1522,373010,16734
+451,Fullmetal Alchemist 450,8.95,45,Finished Airing,2000,Summer,Comedy,5715,1621,289830,12327
+452,One Piece 451,8.67,39,Finished Airing,2018,Summer,Horror,8879,2093,415480,21752
+453,Tokyo Ghoul 452,7.07,36,Finished Airing,2003,Fall,Romance,7188,3141,140697,47381
+454,Attack on Titan 453,5.97,17,Currently Airing,2013,Fall,Adventure,6687,687,481348,12482
+455,Death Note 454,6.94,19,Currently Airing,2002,Fall,Romance,8411,3955,186436,29461
+456,Demon Slayer 455,6.34,26,Finished Airing,2013,Fall,Sci-Fi,1241,3669,976145,15144
+457,Tokyo Ghoul 456,5.84,89,Currently Airing,2005,Spring,Fantasy,8154,1385,87492,11857
+458,Demon Slayer 457,5.91,21,Finished Airing,2017,Summer,Adventure,8150,800,598795,31083
+459,Dragon Ball 458,6.05,29,Currently Airing,2022,Spring,Comedy,7821,2098,576333,16686
+460,Tokyo Ghoul 459,8.09,81,Currently Airing,2003,Summer,Drama,216,1011,756219,1522
+461,My Hero Academia 460,8.33,100,Finished Airing,2016,Summer,Comedy,9257,3467,818305,48516
+462,Tokyo Ghoul 461,7.08,20,Finished Airing,2004,Winter,Horror,5288,4668,5352,39995
+463,My Hero Academia 462,7.96,8,Currently Airing,2013,Fall,Comedy,4357,4600,892230,22064
+464,Tokyo Ghoul 463,8.77,10,Currently Airing,2016,Fall,Fantasy,8343,3784,382639,49992
+465,My Hero Academia 464,8.05,97,Finished Airing,2020,Fall,Fantasy,2201,941,592701,29421
+466,Death Note 465,7.93,59,Currently Airing,2007,Spring,Fantasy,4110,2622,359346,4193
+467,Fullmetal Alchemist 466,8.98,2,Finished Airing,2016,Summer,Horror,468,539,938271,19777
+468,Tokyo Ghoul 467,7.3,42,Finished Airing,2012,Summer,Sci-Fi,9213,3508,124989,40395
+469,Fullmetal Alchemist 468,7.38,89,Currently Airing,2006,Fall,Sci-Fi,3612,2724,334875,20057
+470,Demon Slayer 469,6.59,11,Finished Airing,2012,Spring,Adventure,2206,2922,926117,6791
+471,Naruto 470,6.71,57,Finished Airing,2010,Winter,Fantasy,6497,3052,925216,15281
+472,Naruto 471,7.12,67,Currently Airing,2007,Winter,Romance,9006,1403,613024,31186
+473,Death Note 472,9.87,9,Finished Airing,2018,Summer,Romance,511,2644,571747,17946
+474,My Hero Academia 473,5.0,93,Currently Airing,2009,Spring,Fantasy,888,1580,445954,25492
+475,Jujutsu Kaisen 474,9.88,5,Currently Airing,2002,Fall,Adventure,4463,2739,530670,47231
+476,One Piece 475,6.32,19,Currently Airing,2015,Fall,Sci-Fi,773,408,409562,24202
+477,Fullmetal Alchemist 476,7.08,15,Currently Airing,2014,Winter,Sci-Fi,4946,4728,809891,44256
+478,Dragon Ball 477,6.69,61,Currently Airing,2013,Spring,Horror,7620,83,548789,34752
+479,My Hero Academia 478,5.43,18,Currently Airing,2018,Fall,Horror,9783,496,396962,39124
+480,Dragon Ball 479,6.86,50,Finished Airing,2010,Winter,Comedy,3071,602,782550,49738
+481,Demon Slayer 480,7.14,22,Currently Airing,2012,Fall,Action,815,1977,170064,4357
+482,Demon Slayer 481,6.04,68,Finished Airing,2005,Fall,Horror,9420,590,232141,37347
+483,Jujutsu Kaisen 482,5.35,62,Currently Airing,2007,Winter,Sci-Fi,2016,1556,5589,44548
+484,Dragon Ball 483,6.43,21,Currently Airing,2024,Spring,Sci-Fi,6908,427,831779,22206
+485,Tokyo Ghoul 484,5.53,96,Currently Airing,2015,Summer,Romance,690,3229,994002,32586
+486,Attack on Titan 485,7.92,57,Finished Airing,2015,Summer,Horror,377,263,892225,6032
+487,Fullmetal Alchemist 486,8.45,18,Finished Airing,2022,Summer,Horror,5947,3846,451005,37162
+488,Naruto 487,9.26,12,Currently Airing,2015,Winter,Sci-Fi,853,4154,746422,2511
+489,One Piece 488,8.77,80,Finished Airing,2001,Fall,Romance,5918,1054,614840,45839
+490,Tokyo Ghoul 489,7.02,68,Currently Airing,2024,Winter,Comedy,4185,2796,381326,48036
+491,Fullmetal Alchemist 490,7.7,37,Currently Airing,2023,Fall,Comedy,2648,1565,9379,31358
+492,My Hero Academia 491,9.96,71,Currently Airing,2007,Spring,Drama,9217,3447,984796,44211
+493,Attack on Titan 492,6.28,24,Currently Airing,2023,Summer,Adventure,5720,250,79577,36676
+494,Tokyo Ghoul 493,6.12,40,Finished Airing,2009,Summer,Adventure,6405,4329,923747,32893
+495,Tokyo Ghoul 494,7.12,28,Currently Airing,2002,Spring,Romance,9481,4923,961529,7438
+496,Jujutsu Kaisen 495,8.18,100,Currently Airing,2008,Winter,Comedy,4331,831,636958,37034
+497,Tokyo Ghoul 496,8.92,47,Finished Airing,2001,Fall,Horror,9460,1236,831037,11319
+498,Naruto 497,8.13,89,Currently Airing,2012,Fall,Fantasy,189,2264,624776,30202
+499,Dragon Ball 498,9.1,42,Currently Airing,2007,Summer,Comedy,9152,3300,794502,8676
+500,My Hero Academia 499,7.63,19,Finished Airing,2012,Spring,Sci-Fi,9605,1660,463498,20208
+501,Dragon Ball 500,5.4,83,Finished Airing,2020,Spring,Drama,9614,4130,121986,7526
+502,My Hero Academia 501,5.5,23,Finished Airing,2010,Summer,Adventure,3931,290,581145,46944
+503,Demon Slayer 502,5.27,19,Currently Airing,2022,Spring,Romance,3088,4819,582595,15675
+504,Attack on Titan 503,7.13,7,Finished Airing,2002,Spring,Drama,1716,1037,669754,30179
+505,Tokyo Ghoul 504,8.08,73,Finished Airing,2007,Summer,Comedy,84,790,806154,18407
+506,Fullmetal Alchemist 505,5.66,61,Currently Airing,2006,Spring,Horror,1753,2560,160500,49893
+507,Dragon Ball 506,6.75,26,Currently Airing,2020,Summer,Horror,7123,52,460630,28057
+508,Attack on Titan 507,8.67,100,Finished Airing,2002,Fall,Sci-Fi,5807,4393,322485,13919
+509,Demon Slayer 508,5.26,62,Currently Airing,2012,Spring,Drama,26,4542,13380,12537
+510,Attack on Titan 509,7.02,24,Currently Airing,2015,Winter,Comedy,7698,324,501201,26138
+511,My Hero Academia 510,7.5,69,Currently Airing,2003,Winter,Drama,8691,870,978264,43190
+512,Demon Slayer 511,8.65,57,Currently Airing,2014,Winter,Adventure,6231,1073,619881,46031
+513,Fullmetal Alchemist 512,6.39,31,Finished Airing,2015,Winter,Adventure,5545,3907,568826,34784
+514,Fullmetal Alchemist 513,6.03,5,Currently Airing,2006,Spring,Romance,6664,3314,732626,652
+515,One Piece 514,7.86,94,Currently Airing,2009,Fall,Action,4152,1504,487837,47641
+516,Attack on Titan 515,5.93,35,Currently Airing,2009,Spring,Fantasy,9659,2603,504556,10122
+517,Dragon Ball 516,7.98,20,Currently Airing,2005,Spring,Comedy,9365,4753,167873,45159
+518,Attack on Titan 517,9.37,84,Finished Airing,2009,Winter,Drama,6105,4063,439433,3042
+519,Jujutsu Kaisen 518,6.46,79,Currently Airing,2009,Winter,Adventure,4040,1260,355012,42553
+520,Demon Slayer 519,9.9,82,Currently Airing,2015,Summer,Horror,8456,821,392060,3226
+521,Tokyo Ghoul 520,9.69,76,Currently Airing,2002,Winter,Comedy,7743,4139,292862,43022
+522,Naruto 521,9.8,64,Currently Airing,2008,Summer,Sci-Fi,582,4713,123221,12151
+523,Fullmetal Alchemist 522,7.61,22,Currently Airing,2001,Winter,Fantasy,2786,306,918668,40603
+524,My Hero Academia 523,5.02,81,Finished Airing,2017,Fall,Action,1342,481,258877,39886
+525,Jujutsu Kaisen 524,5.8,5,Currently Airing,2003,Summer,Drama,1019,2993,420464,37604
+526,My Hero Academia 525,6.6,97,Currently Airing,2023,Summer,Fantasy,7353,2179,839447,24556
+527,Attack on Titan 526,9.29,15,Finished Airing,2002,Fall,Sci-Fi,8398,1217,69732,24102
+528,Fullmetal Alchemist 527,9.72,48,Currently Airing,2008,Summer,Fantasy,4964,4458,655223,30356
+529,My Hero Academia 528,7.11,59,Finished Airing,2021,Spring,Drama,4208,1490,509734,37734
+530,Fullmetal Alchemist 529,7.56,60,Finished Airing,2014,Winter,Horror,8799,3505,469507,41366
+531,Attack on Titan 530,5.93,40,Currently Airing,2022,Fall,Romance,9623,2295,616969,1164
+532,Naruto 531,6.49,85,Finished Airing,2017,Fall,Action,9678,2821,205494,30693
+533,Jujutsu Kaisen 532,6.43,81,Finished Airing,2009,Spring,Action,1986,4420,525316,45312
+534,Tokyo Ghoul 533,6.14,98,Currently Airing,2023,Fall,Romance,1107,4074,751209,32289
+535,Naruto 534,6.55,67,Finished Airing,2019,Summer,Adventure,5954,1881,806067,46573
+536,Dragon Ball 535,6.71,16,Finished Airing,2020,Spring,Adventure,8039,1079,671120,48943
+537,Death Note 536,7.84,42,Currently Airing,2016,Summer,Horror,596,4042,694364,27772
+538,Death Note 537,9.01,36,Finished Airing,2023,Spring,Comedy,1997,620,940814,35338
+539,Tokyo Ghoul 538,6.14,4,Finished Airing,2014,Winter,Sci-Fi,9895,1269,929718,47617
+540,Fullmetal Alchemist 539,9.38,14,Finished Airing,2023,Spring,Romance,5962,3251,618654,24232
+541,Fullmetal Alchemist 540,9.5,5,Currently Airing,2000,Spring,Fantasy,2202,2127,136158,35367
+542,Demon Slayer 541,8.66,36,Currently Airing,2003,Winter,Romance,6940,4329,261736,28296
+543,Jujutsu Kaisen 542,6.81,36,Currently Airing,2003,Summer,Action,2070,2954,231132,47033
+544,Tokyo Ghoul 543,9.37,30,Finished Airing,2019,Fall,Drama,4896,1373,404078,36690
+545,One Piece 544,6.86,73,Currently Airing,2011,Fall,Action,5923,4899,298959,8908
+546,My Hero Academia 545,9.16,30,Finished Airing,2010,Spring,Comedy,9727,1002,99771,20665
+547,Tokyo Ghoul 546,9.14,46,Currently Airing,2011,Spring,Comedy,9628,2233,544401,41063
+548,Jujutsu Kaisen 547,5.24,35,Finished Airing,2015,Summer,Comedy,8347,3689,186534,22693
+549,Attack on Titan 548,8.28,63,Finished Airing,2001,Fall,Adventure,6946,2404,347352,16466
+550,My Hero Academia 549,7.02,62,Finished Airing,2010,Winter,Comedy,1215,375,537684,32268
+551,My Hero Academia 550,6.67,41,Currently Airing,2015,Spring,Action,8869,3398,105012,26228
+552,Jujutsu Kaisen 551,9.64,25,Currently Airing,2013,Summer,Sci-Fi,2773,2562,318203,1501
+553,Death Note 552,6.79,48,Currently Airing,2023,Fall,Fantasy,4983,3338,135193,36311
+554,Demon Slayer 553,7.98,43,Finished Airing,2015,Winter,Horror,950,58,254087,3351
+555,Tokyo Ghoul 554,8.24,20,Finished Airing,2017,Fall,Sci-Fi,870,675,390228,44318
+556,One Piece 555,8.35,3,Finished Airing,2017,Summer,Horror,6529,465,857862,36846
+557,My Hero Academia 556,5.81,30,Currently Airing,2024,Summer,Romance,7785,4115,868516,42959
+558,One Piece 557,7.47,34,Currently Airing,2013,Summer,Action,6210,2205,528308,49528
+559,Jujutsu Kaisen 558,5.55,49,Finished Airing,2016,Spring,Sci-Fi,4505,1455,83800,482
+560,One Piece 559,5.25,20,Finished Airing,2006,Summer,Action,2953,2105,787302,37965
+561,My Hero Academia 560,6.27,35,Finished Airing,2002,Summer,Horror,5239,1293,925330,10363
+562,Demon Slayer 561,8.94,49,Finished Airing,2022,Spring,Drama,9053,3211,699161,35004
+563,Jujutsu Kaisen 562,9.13,85,Currently Airing,2015,Winter,Action,8191,4711,440633,43952
+564,Tokyo Ghoul 563,5.27,37,Currently Airing,2004,Spring,Sci-Fi,2920,4442,184686,37834
+565,Dragon Ball 564,9.24,99,Currently Airing,2011,Summer,Comedy,6406,4833,714639,619
+566,Demon Slayer 565,7.46,56,Finished Airing,2018,Fall,Drama,7888,1134,147041,704
+567,Dragon Ball 566,9.75,39,Finished Airing,2017,Summer,Sci-Fi,8286,130,279828,1787
+568,My Hero Academia 567,8.11,53,Finished Airing,2023,Winter,Comedy,971,1160,527232,35975
+569,Tokyo Ghoul 568,9.52,12,Currently Airing,2003,Fall,Horror,5352,4045,467479,23335
+570,Dragon Ball 569,6.32,91,Finished Airing,2014,Winter,Sci-Fi,8467,39,663763,20200
+571,Fullmetal Alchemist 570,9.21,7,Currently Airing,2020,Spring,Comedy,4826,1214,811444,46929
+572,My Hero Academia 571,5.03,93,Finished Airing,2019,Spring,Horror,6014,2823,721584,9282
+573,One Piece 572,6.66,79,Currently Airing,2013,Spring,Horror,2750,4241,676032,3319
+574,Naruto 573,6.59,85,Finished Airing,2017,Winter,Romance,3697,831,455230,4515
+575,My Hero Academia 574,8.33,29,Currently Airing,2005,Fall,Drama,6147,3257,996449,32679
+576,Fullmetal Alchemist 575,6.91,67,Currently Airing,2007,Summer,Horror,7925,1633,232434,24296
+577,Tokyo Ghoul 576,6.06,1,Currently Airing,2003,Fall,Comedy,239,610,506308,11439
+578,Demon Slayer 577,5.44,35,Finished Airing,2019,Spring,Drama,4195,3907,167905,34566
+579,Death Note 578,8.3,12,Currently Airing,2020,Summer,Adventure,719,975,943743,17377
+580,Dragon Ball 579,9.22,74,Currently Airing,2017,Summer,Action,6402,4637,634482,49003
+581,Jujutsu Kaisen 580,5.43,84,Finished Airing,2000,Spring,Adventure,28,2530,836008,41357
+582,Jujutsu Kaisen 581,5.71,96,Currently Airing,2012,Winter,Horror,2268,523,937383,48869
+583,Attack on Titan 582,9.83,73,Finished Airing,2021,Spring,Action,3432,3797,941180,21375
+584,Demon Slayer 583,7.85,32,Currently Airing,2014,Summer,Adventure,8966,1847,6251,7816
+585,Tokyo Ghoul 584,6.33,55,Currently Airing,2022,Spring,Romance,9949,1150,526372,19334
+586,Naruto 585,6.61,2,Finished Airing,2013,Summer,Comedy,398,4668,264548,20197
+587,My Hero Academia 586,9.65,83,Currently Airing,2020,Summer,Romance,9664,1231,348257,27966
+588,My Hero Academia 587,5.64,83,Currently Airing,2001,Winter,Action,8913,1745,118956,47005
+589,Attack on Titan 588,9.57,78,Currently Airing,2014,Winter,Comedy,4859,3532,678086,13540
+590,Tokyo Ghoul 589,7.42,85,Currently Airing,2020,Fall,Horror,723,298,666330,38656
+591,Fullmetal Alchemist 590,7.87,22,Currently Airing,2011,Summer,Fantasy,2487,3657,718346,45487
+592,Fullmetal Alchemist 591,9.49,85,Finished Airing,2018,Spring,Action,4613,4661,653567,24305
+593,One Piece 592,5.88,72,Currently Airing,2014,Spring,Comedy,4555,3153,582170,4106
+594,My Hero Academia 593,6.21,90,Finished Airing,2024,Fall,Drama,4295,3499,834617,36715
+595,Attack on Titan 594,9.99,54,Currently Airing,2014,Fall,Sci-Fi,3485,3720,485247,39420
+596,One Piece 595,7.51,35,Finished Airing,2016,Spring,Comedy,2456,1189,424035,11705
+597,Death Note 596,9.96,83,Currently Airing,2015,Summer,Comedy,576,1995,137286,5941
+598,Dragon Ball 597,7.47,45,Finished Airing,2008,Spring,Horror,5186,3521,986346,6140
+599,Tokyo Ghoul 598,5.54,55,Currently Airing,2002,Spring,Sci-Fi,3980,780,866642,33896
+600,Death Note 599,6.49,65,Currently Airing,2007,Summer,Horror,3995,3041,387556,28508
+601,Attack on Titan 600,7.33,78,Currently Airing,2013,Winter,Drama,2734,3538,436571,41990
+602,Attack on Titan 601,7.09,56,Finished Airing,2012,Winter,Comedy,2245,3000,153061,15880
+603,Death Note 602,5.6,9,Finished Airing,2010,Fall,Romance,4541,4149,879345,30461
+604,Death Note 603,9.42,22,Currently Airing,2021,Summer,Romance,8017,1634,347514,39808
+605,Attack on Titan 604,9.76,41,Currently Airing,2000,Fall,Horror,4257,4453,18263,25373
+606,Naruto 605,9.11,68,Finished Airing,2003,Winter,Fantasy,5219,3888,145293,24760
+607,My Hero Academia 606,5.56,49,Currently Airing,2000,Spring,Adventure,8534,2288,193934,1715
+608,Jujutsu Kaisen 607,9.61,37,Finished Airing,2018,Spring,Adventure,6105,3188,21085,4328
+609,Demon Slayer 608,7.28,36,Finished Airing,2003,Fall,Adventure,7609,2674,63166,32501
+610,Attack on Titan 609,8.61,93,Finished Airing,2000,Spring,Adventure,5055,3886,526727,17006
+611,Demon Slayer 610,5.22,60,Currently Airing,2017,Summer,Romance,2207,3157,638873,26815
+612,Attack on Titan 611,9.98,99,Currently Airing,2024,Winter,Adventure,9679,2663,114210,26308
+613,Attack on Titan 612,5.51,30,Currently Airing,2021,Summer,Drama,1276,2086,733343,8456
+614,Jujutsu Kaisen 613,7.15,46,Currently Airing,2012,Fall,Romance,6371,4625,790565,44710
+615,Tokyo Ghoul 614,9.55,7,Currently Airing,2001,Fall,Comedy,3165,3352,468511,38309
+616,Dragon Ball 615,8.34,20,Currently Airing,2006,Summer,Fantasy,4567,4924,516144,46702
+617,My Hero Academia 616,8.61,9,Finished Airing,2008,Fall,Drama,1951,1690,789555,48618
+618,Tokyo Ghoul 617,9.49,85,Currently Airing,2011,Summer,Horror,6990,4156,190950,46224
+619,Attack on Titan 618,6.38,41,Finished Airing,2010,Summer,Drama,6146,3955,818100,22158
+620,Dragon Ball 619,7.78,67,Currently Airing,2016,Spring,Adventure,2263,2611,485200,16340
+621,Death Note 620,6.81,26,Currently Airing,2019,Winter,Fantasy,2970,4335,774082,41121
+622,One Piece 621,5.89,88,Finished Airing,2014,Spring,Drama,3238,957,263533,35418
+623,Tokyo Ghoul 622,7.12,80,Finished Airing,2017,Summer,Comedy,5467,4052,442813,14547
+624,One Piece 623,9.38,59,Currently Airing,2003,Summer,Action,5839,1986,262361,12497
+625,Dragon Ball 624,9.27,41,Currently Airing,2015,Fall,Action,9908,4547,241931,31784
+626,Fullmetal Alchemist 625,6.5,37,Currently Airing,2007,Spring,Comedy,971,3068,877224,2439
+627,My Hero Academia 626,6.24,52,Finished Airing,2016,Winter,Action,2264,3699,206358,8409
+628,Dragon Ball 627,5.4,4,Currently Airing,2012,Summer,Drama,4089,2659,803093,21284
+629,Dragon Ball 628,8.86,59,Currently Airing,2007,Winter,Adventure,3290,4073,654871,31298
+630,Tokyo Ghoul 629,9.27,93,Currently Airing,2017,Fall,Comedy,9115,1043,280809,39561
+631,One Piece 630,7.88,92,Finished Airing,2015,Spring,Action,6228,4924,481843,39558
+632,Demon Slayer 631,5.96,85,Finished Airing,2024,Summer,Sci-Fi,4548,3582,580327,13800
+633,Naruto 632,6.42,82,Currently Airing,2019,Summer,Adventure,5067,1169,668395,21173
+634,Jujutsu Kaisen 633,8.39,20,Currently Airing,2019,Fall,Fantasy,9133,293,150696,14769
+635,One Piece 634,5.18,79,Currently Airing,2005,Spring,Adventure,2079,3362,716855,12030
+636,Naruto 635,7.62,78,Currently Airing,2005,Winter,Action,6245,3816,131190,8802
+637,One Piece 636,6.13,18,Currently Airing,2013,Summer,Adventure,3117,3983,861221,20115
+638,Demon Slayer 637,9.88,11,Finished Airing,2021,Fall,Drama,4027,3899,889411,11086
+639,Naruto 638,6.2,86,Finished Airing,2020,Summer,Comedy,5932,833,60451,8461
+640,Death Note 639,6.35,56,Finished Airing,2000,Spring,Drama,8235,4361,968862,34120
+641,Jujutsu Kaisen 640,7.51,85,Currently Airing,2022,Fall,Sci-Fi,912,4862,141642,30630
+642,Jujutsu Kaisen 641,5.37,95,Currently Airing,2015,Summer,Drama,3628,680,334545,39858
+643,Naruto 642,6.63,68,Currently Airing,2018,Winter,Adventure,9634,2974,523622,16038
+644,Attack on Titan 643,8.78,21,Currently Airing,2011,Winter,Fantasy,730,3244,22077,3916
+645,Attack on Titan 644,6.23,82,Finished Airing,2018,Winter,Comedy,2022,3947,377033,32462
+646,Demon Slayer 645,8.78,47,Finished Airing,2015,Summer,Adventure,3883,2469,564972,29766
+647,Dragon Ball 646,6.07,36,Currently Airing,2015,Fall,Action,7090,507,163133,1912
+648,Dragon Ball 647,5.03,68,Finished Airing,2015,Winter,Action,4822,2029,64971,34947
+649,Dragon Ball 648,8.67,16,Finished Airing,2019,Summer,Sci-Fi,2700,813,73916,10279
+650,Death Note 649,9.31,70,Currently Airing,2020,Fall,Fantasy,2538,1041,119848,32304
+651,Demon Slayer 650,7.88,23,Currently Airing,2011,Fall,Sci-Fi,7034,1200,34587,23151
+652,One Piece 651,7.49,74,Finished Airing,2004,Winter,Action,6577,637,509055,18364
+653,Tokyo Ghoul 652,5.9,88,Currently Airing,2019,Winter,Adventure,7697,2507,151469,44152
+654,Jujutsu Kaisen 653,9.67,18,Currently Airing,2022,Spring,Horror,2501,2157,652026,22673
+655,Fullmetal Alchemist 654,6.86,12,Finished Airing,2001,Winter,Sci-Fi,5747,1678,448557,4740
+656,Attack on Titan 655,8.2,25,Currently Airing,2017,Summer,Action,9321,2919,789493,10072
+657,Naruto 656,9.32,74,Currently Airing,2010,Fall,Action,8146,906,506937,37860
+658,My Hero Academia 657,6.27,15,Currently Airing,2008,Winter,Romance,3689,2957,94267,20590
+659,Dragon Ball 658,7.44,2,Finished Airing,2009,Summer,Action,2583,3457,175158,12071
+660,Death Note 659,8.1,45,Currently Airing,2024,Summer,Horror,6112,586,522331,41984
+661,One Piece 660,5.48,41,Finished Airing,2014,Fall,Action,9389,2807,776555,45817
+662,Demon Slayer 661,8.68,87,Finished Airing,2009,Spring,Horror,5336,1191,532265,24409
+663,Jujutsu Kaisen 662,5.59,76,Finished Airing,2004,Fall,Horror,6241,2685,708776,34065
+664,Death Note 663,9.68,3,Finished Airing,2002,Fall,Romance,4584,398,964074,24252
+665,Jujutsu Kaisen 664,6.82,72,Currently Airing,2007,Spring,Adventure,400,1549,502418,16389
+666,Fullmetal Alchemist 665,7.69,64,Finished Airing,2003,Summer,Horror,1970,520,642435,31126
+667,Death Note 666,7.65,18,Currently Airing,2023,Spring,Adventure,6599,2449,202270,45481
+668,Naruto 667,7.81,31,Currently Airing,2014,Summer,Romance,4719,733,833600,44015
+669,Dragon Ball 668,5.07,16,Currently Airing,2008,Spring,Comedy,7413,2725,1188,2404
+670,Fullmetal Alchemist 669,7.53,31,Currently Airing,2007,Spring,Sci-Fi,7469,3871,786971,49478
+671,Death Note 670,9.29,84,Finished Airing,2018,Summer,Drama,8199,2788,855959,14823
+672,Jujutsu Kaisen 671,7.48,51,Finished Airing,2017,Summer,Horror,5332,1296,485662,23884
+673,My Hero Academia 672,9.18,90,Finished Airing,2014,Summer,Drama,58,307,176892,40230
+674,Attack on Titan 673,5.86,80,Currently Airing,2000,Summer,Horror,6764,570,169436,38811
+675,Naruto 674,6.99,37,Currently Airing,2004,Winter,Romance,146,2043,10469,721
+676,One Piece 675,5.75,96,Currently Airing,2021,Summer,Romance,4165,4720,721634,31315
+677,Jujutsu Kaisen 676,7.41,67,Finished Airing,2008,Summer,Horror,9527,1662,740912,24521
+678,One Piece 677,9.9,61,Finished Airing,2014,Fall,Comedy,525,3363,522517,37206
+679,Jujutsu Kaisen 678,5.14,92,Currently Airing,2017,Spring,Fantasy,1576,4605,750524,36724
+680,Attack on Titan 679,6.88,58,Finished Airing,2015,Spring,Adventure,1283,2011,279604,6983
+681,Attack on Titan 680,8.09,88,Finished Airing,2022,Fall,Fantasy,7265,4266,605278,49975
+682,Naruto 681,7.51,32,Currently Airing,2019,Summer,Drama,5297,1068,468679,4499
+683,Death Note 682,8.06,97,Finished Airing,2018,Fall,Action,7568,4423,341742,22220
+684,Jujutsu Kaisen 683,5.23,92,Finished Airing,2023,Spring,Comedy,7046,3059,109029,22160
+685,Attack on Titan 684,6.89,23,Finished Airing,2022,Spring,Sci-Fi,9462,920,802706,49628
+686,Demon Slayer 685,9.83,65,Finished Airing,2002,Spring,Romance,2308,3553,927982,33882
+687,Jujutsu Kaisen 686,7.96,1,Finished Airing,2010,Summer,Drama,4722,577,715441,11889
+688,Dragon Ball 687,5.29,76,Finished Airing,2017,Fall,Fantasy,6423,2993,855182,36425
+689,Naruto 688,6.2,89,Currently Airing,2010,Spring,Fantasy,4518,3113,566110,31842
+690,Demon Slayer 689,7.71,57,Currently Airing,2002,Fall,Action,4011,325,648601,34207
+691,Fullmetal Alchemist 690,6.73,72,Currently Airing,2022,Spring,Drama,6039,121,34584,8019
+692,My Hero Academia 691,9.15,51,Finished Airing,2009,Summer,Horror,8747,4031,48331,28324
+693,Tokyo Ghoul 692,6.85,36,Currently Airing,2024,Fall,Comedy,1456,1383,377892,12060
+694,My Hero Academia 693,8.01,29,Finished Airing,2023,Spring,Action,7396,601,734632,22174
+695,My Hero Academia 694,5.04,11,Currently Airing,2022,Spring,Comedy,4729,3769,579846,49436
+696,Jujutsu Kaisen 695,9.64,81,Currently Airing,2012,Summer,Fantasy,1173,4,720816,13017
+697,Demon Slayer 696,6.57,19,Finished Airing,2013,Spring,Fantasy,3890,2813,312370,43193
+698,My Hero Academia 697,8.12,88,Finished Airing,2002,Spring,Horror,7824,2758,24627,34483
+699,Attack on Titan 698,9.33,10,Finished Airing,2002,Summer,Comedy,3993,4607,211474,2755
+700,One Piece 699,6.59,86,Finished Airing,2003,Winter,Adventure,4495,2410,387239,885
+701,Jujutsu Kaisen 700,5.36,71,Finished Airing,2004,Summer,Horror,3718,1593,311418,9953
+702,Dragon Ball 701,9.02,75,Currently Airing,2016,Summer,Horror,1011,1859,575753,8745
+703,Death Note 702,6.24,31,Currently Airing,2004,Summer,Comedy,2176,4363,514941,24982
+704,Death Note 703,7.57,82,Currently Airing,2011,Fall,Adventure,7095,1016,753152,35442
+705,Demon Slayer 704,9.9,51,Currently Airing,2022,Spring,Drama,4691,3752,548847,41525
+706,Death Note 705,5.91,27,Finished Airing,2005,Summer,Romance,803,4804,910863,13940
+707,Death Note 706,7.51,14,Finished Airing,2006,Winter,Sci-Fi,3719,3865,644703,44377
+708,Demon Slayer 707,6.16,41,Currently Airing,2003,Spring,Sci-Fi,6309,403,241899,19763
+709,Attack on Titan 708,9.88,31,Finished Airing,2019,Summer,Fantasy,1930,957,19806,12730
+710,Naruto 709,9.17,59,Currently Airing,2012,Fall,Drama,3833,959,195802,281
+711,Tokyo Ghoul 710,7.74,72,Finished Airing,2020,Fall,Comedy,4570,1090,506558,23756
+712,Jujutsu Kaisen 711,9.55,25,Currently Airing,2022,Winter,Fantasy,6446,4759,410701,13776
+713,Jujutsu Kaisen 712,5.65,42,Currently Airing,2012,Spring,Romance,2409,1122,418366,46293
+714,Naruto 713,9.09,76,Finished Airing,2024,Spring,Drama,1084,1564,206200,33415
+715,Demon Slayer 714,5.75,48,Currently Airing,2019,Fall,Fantasy,392,3516,403477,15515
+716,Jujutsu Kaisen 715,7.66,62,Currently Airing,2006,Summer,Drama,4931,1876,829078,5254
+717,My Hero Academia 716,5.79,49,Finished Airing,2018,Fall,Sci-Fi,6354,2317,895004,27659
+718,Jujutsu Kaisen 717,6.15,98,Finished Airing,2017,Winter,Adventure,9588,4990,423842,38392
+719,My Hero Academia 718,7.54,57,Finished Airing,2018,Fall,Fantasy,8832,1630,783610,19124
+720,One Piece 719,6.35,25,Finished Airing,2019,Fall,Action,6769,2321,737225,33209
+721,One Piece 720,6.85,34,Finished Airing,2001,Summer,Fantasy,5451,273,296597,49220
+722,Tokyo Ghoul 721,8.98,28,Finished Airing,2017,Fall,Adventure,4889,3176,118808,47930
+723,Dragon Ball 722,5.13,14,Currently Airing,2004,Fall,Comedy,3091,860,598132,30027
+724,Naruto 723,6.66,84,Finished Airing,2019,Spring,Fantasy,8075,1662,991451,43211
+725,Tokyo Ghoul 724,6.56,19,Finished Airing,2021,Spring,Sci-Fi,5514,270,919332,15028
+726,Fullmetal Alchemist 725,6.06,91,Finished Airing,2004,Spring,Drama,6604,4773,576734,2433
+727,Naruto 726,6.98,65,Finished Airing,2016,Spring,Drama,2025,2360,411880,21983
+728,Dragon Ball 727,9.4,48,Finished Airing,2010,Winter,Romance,2516,822,702061,24736
+729,Jujutsu Kaisen 728,5.1,88,Currently Airing,2004,Spring,Romance,1535,1611,426555,5388
+730,Dragon Ball 729,6.78,98,Finished Airing,2018,Spring,Comedy,4547,1973,143723,17834
+731,Fullmetal Alchemist 730,7.77,64,Finished Airing,2014,Summer,Adventure,454,2671,954450,29413
+732,Death Note 731,6.12,82,Finished Airing,2007,Fall,Adventure,9421,4330,391649,45338
+733,Jujutsu Kaisen 732,8.6,42,Currently Airing,2018,Fall,Sci-Fi,3487,4022,787432,45666
+734,Death Note 733,9.45,63,Currently Airing,2007,Summer,Horror,3275,3503,720769,22375
+735,Tokyo Ghoul 734,9.57,24,Finished Airing,2010,Fall,Romance,1307,3186,629420,37060
+736,Demon Slayer 735,5.19,40,Currently Airing,2014,Spring,Comedy,5312,1478,319822,14397
+737,Jujutsu Kaisen 736,7.44,59,Finished Airing,2000,Fall,Romance,9882,3077,50904,22746
+738,Dragon Ball 737,6.45,94,Currently Airing,2001,Winter,Adventure,9611,3574,503938,10307
+739,Naruto 738,8.23,15,Finished Airing,2007,Spring,Horror,5956,4866,591917,12425
+740,My Hero Academia 739,8.6,71,Currently Airing,2006,Summer,Horror,9964,95,954757,31717
+741,One Piece 740,6.54,96,Finished Airing,2016,Spring,Sci-Fi,3046,4653,800388,7625
+742,Dragon Ball 741,7.56,92,Currently Airing,2024,Summer,Horror,3533,4534,556276,18458
+743,Tokyo Ghoul 742,6.91,15,Finished Airing,2001,Spring,Romance,6363,3561,432738,300
+744,Tokyo Ghoul 743,5.26,17,Finished Airing,2019,Summer,Action,4222,1254,887231,42193
+745,Tokyo Ghoul 744,7.3,98,Currently Airing,2005,Winter,Action,9775,109,186742,7213
+746,My Hero Academia 745,6.43,56,Finished Airing,2016,Summer,Drama,8726,2285,448155,42080
+747,One Piece 746,9.51,93,Finished Airing,2009,Summer,Action,1902,2897,847212,37848
+748,Dragon Ball 747,8.97,62,Currently Airing,2005,Summer,Adventure,7918,653,968522,42794
+749,One Piece 748,8.86,5,Finished Airing,2002,Spring,Romance,3159,2344,470509,47612
+750,Tokyo Ghoul 749,5.53,72,Finished Airing,2024,Winter,Action,8654,2583,439068,21697
+751,Tokyo Ghoul 750,5.62,34,Currently Airing,2016,Spring,Romance,8707,3925,868325,35363
+752,Fullmetal Alchemist 751,7.93,27,Currently Airing,2020,Spring,Horror,1641,1856,877328,13336
+753,Demon Slayer 752,9.67,7,Finished Airing,2004,Fall,Fantasy,197,1615,210680,8496
+754,Fullmetal Alchemist 753,5.83,39,Currently Airing,2013,Fall,Sci-Fi,1093,3518,556602,3697
+755,Dragon Ball 754,6.73,85,Finished Airing,2023,Winter,Drama,332,1021,284713,18125
+756,One Piece 755,9.29,79,Finished Airing,2020,Fall,Comedy,413,4233,225359,22501
+757,Naruto 756,8.04,12,Finished Airing,2013,Spring,Drama,6857,2035,885816,16065
+758,Jujutsu Kaisen 757,6.8,7,Currently Airing,2017,Fall,Comedy,7970,3495,228115,28635
+759,Tokyo Ghoul 758,8.15,25,Currently Airing,2017,Summer,Comedy,201,3740,361775,26475
+760,Fullmetal Alchemist 759,6.81,32,Currently Airing,2005,Fall,Action,9001,2124,262590,23072
+761,Naruto 760,8.46,34,Currently Airing,2014,Fall,Fantasy,8572,2473,419075,48775
+762,My Hero Academia 761,7.25,95,Finished Airing,2010,Spring,Action,6530,4484,57222,49149
+763,Dragon Ball 762,9.73,50,Currently Airing,2011,Fall,Romance,1797,1132,5526,28137
+764,Naruto 763,6.29,92,Finished Airing,2003,Spring,Comedy,9914,1053,335604,1183
+765,Fullmetal Alchemist 764,7.13,46,Currently Airing,2002,Summer,Horror,2565,514,830287,41869
+766,Fullmetal Alchemist 765,8.32,73,Finished Airing,2010,Spring,Adventure,5219,4985,312773,22979
+767,Tokyo Ghoul 766,5.33,78,Currently Airing,2018,Winter,Horror,442,2224,333880,13619
+768,Fullmetal Alchemist 767,5.2,44,Finished Airing,2000,Fall,Action,2336,4269,242063,38439
+769,Demon Slayer 768,9.76,61,Finished Airing,2017,Fall,Horror,8622,1743,75742,45071
+770,Demon Slayer 769,5.65,100,Finished Airing,2009,Summer,Romance,3565,2647,568194,30465
+771,Dragon Ball 770,7.11,15,Currently Airing,2022,Winter,Drama,134,1988,85637,21144
+772,Dragon Ball 771,8.9,8,Currently Airing,2013,Winter,Sci-Fi,1691,2843,400776,42988
+773,Attack on Titan 772,9.61,73,Currently Airing,2009,Spring,Comedy,6490,409,445888,48003
+774,My Hero Academia 773,6.48,67,Finished Airing,2000,Summer,Sci-Fi,2246,4642,990579,28044
+775,Naruto 774,6.29,91,Finished Airing,2006,Winter,Romance,9686,3600,586136,15067
+776,My Hero Academia 775,5.18,55,Finished Airing,2021,Spring,Comedy,7122,4117,598777,22583
+777,Attack on Titan 776,8.49,67,Finished Airing,2000,Summer,Comedy,9515,1823,129623,794
+778,One Piece 777,9.95,5,Currently Airing,2016,Spring,Sci-Fi,5414,657,438278,15934
+779,Naruto 778,8.16,49,Currently Airing,2005,Fall,Action,4247,2207,461908,8112
+780,My Hero Academia 779,5.92,32,Finished Airing,2021,Winter,Comedy,495,4517,121498,49939
+781,Dragon Ball 780,5.01,87,Finished Airing,2009,Summer,Comedy,6499,1235,762140,12483
+782,Demon Slayer 781,5.33,87,Currently Airing,2004,Winter,Sci-Fi,6103,3755,450055,10752
+783,Demon Slayer 782,8.15,74,Finished Airing,2009,Spring,Action,2941,1036,319879,7189
+784,Fullmetal Alchemist 783,8.81,16,Currently Airing,2015,Summer,Horror,484,2750,831563,5251
+785,Demon Slayer 784,7.84,10,Finished Airing,2005,Winter,Drama,8550,578,232513,40366
+786,Dragon Ball 785,6.82,77,Currently Airing,2001,Winter,Sci-Fi,4958,4379,593929,43268
+787,My Hero Academia 786,9.25,1,Currently Airing,2011,Summer,Romance,3505,4382,953727,11692
+788,Fullmetal Alchemist 787,8.63,87,Finished Airing,2004,Spring,Adventure,1423,3272,522534,38773
+789,Naruto 788,5.5,54,Finished Airing,2001,Winter,Romance,8463,1191,317121,29537
+790,Demon Slayer 789,9.28,29,Currently Airing,2015,Summer,Romance,9606,618,653471,42576
+791,Dragon Ball 790,8.29,5,Currently Airing,2014,Winter,Sci-Fi,3632,1046,550133,27544
+792,Death Note 791,9.42,76,Currently Airing,2021,Winter,Romance,5213,559,983272,26665
+793,One Piece 792,9.03,72,Finished Airing,2000,Fall,Action,207,699,910820,7897
+794,Death Note 793,9.4,45,Currently Airing,2013,Summer,Action,7098,4078,84605,30975
+795,Tokyo Ghoul 794,7.22,26,Finished Airing,2000,Spring,Sci-Fi,4479,2965,20104,41685
+796,Jujutsu Kaisen 795,7.57,4,Finished Airing,2002,Spring,Fantasy,8915,3769,684286,36926
+797,Demon Slayer 796,6.48,5,Finished Airing,2010,Summer,Comedy,8980,2632,408669,3259
+798,Demon Slayer 797,6.57,99,Finished Airing,2012,Winter,Action,323,946,197298,15342
+799,Fullmetal Alchemist 798,9.31,24,Currently Airing,2017,Fall,Drama,6647,4754,262464,22766
+800,Dragon Ball 799,8.39,44,Finished Airing,2014,Winter,Adventure,2332,34,919549,3444
+801,One Piece 800,5.49,50,Currently Airing,2024,Spring,Sci-Fi,5556,3118,724371,18153
+802,Jujutsu Kaisen 801,6.63,63,Finished Airing,2010,Winter,Drama,7379,4110,486586,39046
+803,Fullmetal Alchemist 802,5.93,80,Finished Airing,2006,Fall,Sci-Fi,6673,236,518548,31590
+804,Naruto 803,5.34,58,Currently Airing,2023,Fall,Adventure,7321,988,29652,43777
+805,Naruto 804,5.54,14,Currently Airing,2003,Fall,Comedy,3388,3185,521767,4845
+806,Tokyo Ghoul 805,8.91,9,Currently Airing,2012,Fall,Romance,3339,2759,222988,28950
+807,Demon Slayer 806,7.53,90,Finished Airing,2009,Spring,Romance,4974,578,321351,35111
+808,Tokyo Ghoul 807,9.33,33,Finished Airing,2003,Winter,Adventure,9170,504,13066,5486
+809,One Piece 808,9.98,53,Currently Airing,2017,Winter,Action,496,2020,977207,6592
+810,Jujutsu Kaisen 809,8.83,46,Finished Airing,2002,Spring,Drama,699,2517,604967,20012
+811,Tokyo Ghoul 810,7.81,93,Currently Airing,2001,Spring,Comedy,8336,1678,701051,39883
+812,Death Note 811,7.22,9,Finished Airing,2010,Spring,Fantasy,1198,2932,660439,33841
+813,Death Note 812,6.37,31,Finished Airing,2021,Summer,Comedy,1966,852,106745,18687
+814,Demon Slayer 813,6.55,54,Finished Airing,2014,Spring,Comedy,8013,728,74283,2379
+815,My Hero Academia 814,7.23,50,Finished Airing,2021,Winter,Horror,3983,2228,836613,46858
+816,One Piece 815,6.03,63,Currently Airing,2019,Summer,Horror,9804,3728,639510,2872
+817,Demon Slayer 816,6.27,82,Currently Airing,2012,Spring,Drama,5715,848,930322,22699
+818,Attack on Titan 817,7.99,74,Currently Airing,2000,Spring,Comedy,5291,3912,277887,43759
+819,Demon Slayer 818,7.18,23,Finished Airing,2002,Summer,Drama,7748,1294,863224,17271
+820,My Hero Academia 819,6.68,28,Currently Airing,2007,Spring,Horror,2866,1994,428832,49217
+821,Attack on Titan 820,8.31,66,Finished Airing,2017,Spring,Adventure,4350,161,495940,32100
+822,Fullmetal Alchemist 821,5.9,26,Currently Airing,2014,Summer,Sci-Fi,8109,2059,82144,15210
+823,Fullmetal Alchemist 822,8.44,87,Currently Airing,2004,Spring,Sci-Fi,1212,4682,763684,37105
+824,Death Note 823,5.62,5,Finished Airing,2004,Winter,Adventure,3526,3147,260735,23901
+825,Fullmetal Alchemist 824,5.26,55,Currently Airing,2019,Winter,Fantasy,2283,2683,821465,17479
+826,One Piece 825,5.55,15,Finished Airing,2020,Winter,Horror,9281,130,192044,23025
+827,Death Note 826,8.73,31,Currently Airing,2021,Spring,Sci-Fi,1515,3593,333886,40326
+828,Death Note 827,7.58,82,Currently Airing,2019,Winter,Fantasy,2766,545,972405,5986
+829,Fullmetal Alchemist 828,5.1,5,Currently Airing,2003,Fall,Comedy,1695,3888,641560,26358
+830,Naruto 829,5.18,79,Finished Airing,2024,Fall,Adventure,5035,1586,480187,36316
+831,Fullmetal Alchemist 830,6.53,58,Finished Airing,2019,Spring,Sci-Fi,9618,1350,516266,4888
+832,Death Note 831,8.13,68,Finished Airing,2018,Winter,Drama,1707,2080,225318,5791
+833,Demon Slayer 832,9.15,6,Currently Airing,2023,Summer,Drama,9470,4300,226766,12771
+834,Death Note 833,6.25,31,Finished Airing,2001,Winter,Romance,4453,2801,386009,35875
+835,Attack on Titan 834,8.03,52,Finished Airing,2012,Winter,Fantasy,1578,2673,648151,42052
+836,My Hero Academia 835,7.69,59,Currently Airing,2013,Spring,Fantasy,4737,2267,364068,45154
+837,Attack on Titan 836,7.15,27,Finished Airing,2012,Fall,Romance,2154,4932,893193,35125
+838,Tokyo Ghoul 837,6.11,11,Currently Airing,2012,Spring,Sci-Fi,4899,400,607706,23127
+839,My Hero Academia 838,9.25,69,Currently Airing,2014,Summer,Comedy,7439,3479,714901,25536
+840,Death Note 839,5.17,21,Currently Airing,2011,Winter,Fantasy,812,327,766881,798
+841,Dragon Ball 840,8.28,77,Finished Airing,2006,Winter,Action,1784,2221,363795,29661
+842,Fullmetal Alchemist 841,9.56,75,Finished Airing,2010,Spring,Fantasy,9378,1947,507221,18056
+843,Death Note 842,5.74,39,Finished Airing,2003,Winter,Fantasy,2028,118,584376,31163
+844,Attack on Titan 843,9.83,60,Currently Airing,2001,Spring,Fantasy,3400,2344,622865,39383
+845,One Piece 844,5.8,61,Finished Airing,2000,Summer,Action,1553,190,452278,47202
+846,Naruto 845,9.92,55,Finished Airing,2024,Summer,Fantasy,8892,3549,760772,1981
+847,Jujutsu Kaisen 846,9.42,94,Finished Airing,2014,Spring,Comedy,3110,2089,758616,4968
+848,Death Note 847,7.58,43,Currently Airing,2008,Summer,Fantasy,5071,4476,189795,5196
+849,Tokyo Ghoul 848,5.1,5,Currently Airing,2006,Summer,Horror,4293,205,562989,36724
+850,Naruto 849,5.69,85,Finished Airing,2014,Fall,Action,6491,2125,443790,18193
+851,Attack on Titan 850,9.64,90,Currently Airing,2016,Winter,Drama,3484,2006,687287,21000
+852,Death Note 851,9.7,15,Finished Airing,2016,Summer,Adventure,4950,1224,940667,9684
+853,Naruto 852,6.64,2,Finished Airing,2003,Winter,Comedy,8855,3518,670402,27688
+854,Death Note 853,9.69,10,Currently Airing,2011,Spring,Romance,7380,3733,97532,36299
+855,One Piece 854,6.53,60,Finished Airing,2024,Fall,Fantasy,7124,823,522661,1841
+856,Dragon Ball 855,5.87,73,Finished Airing,2008,Spring,Comedy,9445,124,157349,16282
+857,Naruto 856,5.56,94,Finished Airing,2003,Fall,Romance,2641,445,173531,34831
+858,One Piece 857,9.65,57,Currently Airing,2002,Spring,Fantasy,4466,821,899624,48271
+859,Tokyo Ghoul 858,5.56,88,Finished Airing,2018,Fall,Drama,9840,395,717636,22090
+860,Demon Slayer 859,9.3,26,Finished Airing,2024,Fall,Drama,9452,3440,868266,38592
+861,Tokyo Ghoul 860,9.75,82,Finished Airing,2020,Winter,Drama,5924,4946,225134,5076
+862,One Piece 861,8.71,63,Currently Airing,2007,Summer,Romance,51,3595,697709,11839
+863,Attack on Titan 862,5.13,59,Currently Airing,2005,Winter,Sci-Fi,3267,4505,423120,37774
+864,Death Note 863,6.17,87,Finished Airing,2008,Spring,Drama,6549,3415,61301,27514
+865,Jujutsu Kaisen 864,5.6,26,Finished Airing,2014,Winter,Comedy,3025,4467,233691,1677
+866,One Piece 865,5.2,56,Finished Airing,2009,Fall,Drama,25,4901,144808,5142
+867,Jujutsu Kaisen 866,9.9,47,Finished Airing,2009,Winter,Horror,8793,2933,583779,14455
+868,Naruto 867,9.11,72,Currently Airing,2008,Fall,Fantasy,340,920,61169,29585
+869,Jujutsu Kaisen 868,8.58,8,Currently Airing,2017,Summer,Romance,1828,1901,311028,25302
+870,Attack on Titan 869,7.08,23,Currently Airing,2012,Spring,Adventure,141,1536,206296,24902
+871,Demon Slayer 870,6.7,57,Currently Airing,2007,Fall,Sci-Fi,144,2203,853959,39782
+872,Demon Slayer 871,8.23,81,Finished Airing,2023,Summer,Adventure,4990,3757,659151,19484
+873,Attack on Titan 872,5.71,91,Currently Airing,2002,Winter,Drama,1351,4785,438431,3834
+874,Tokyo Ghoul 873,5.84,77,Currently Airing,2003,Winter,Adventure,5545,2751,173619,27424
+875,Fullmetal Alchemist 874,9.85,39,Finished Airing,2015,Fall,Comedy,8253,3416,631282,24373
+876,Demon Slayer 875,6.25,41,Currently Airing,2010,Winter,Comedy,6469,1958,383670,10242
+877,Dragon Ball 876,9.52,18,Finished Airing,2010,Winter,Action,1989,175,853057,25907
+878,Naruto 877,6.06,52,Finished Airing,2005,Spring,Drama,9582,4275,392497,38018
+879,Demon Slayer 878,9.81,46,Finished Airing,2011,Fall,Drama,4357,4917,151673,15087
+880,Death Note 879,6.92,100,Finished Airing,2017,Fall,Horror,7559,4616,335260,21939
+881,One Piece 880,9.86,18,Finished Airing,2023,Fall,Romance,5537,420,5823,34860
+882,Death Note 881,5.45,64,Finished Airing,2012,Spring,Fantasy,823,4034,921703,49173
+883,Fullmetal Alchemist 882,6.74,77,Currently Airing,2020,Summer,Fantasy,3630,309,387930,32417
+884,One Piece 883,9.0,47,Currently Airing,2016,Fall,Romance,9326,3715,251663,1868
+885,One Piece 884,7.25,37,Finished Airing,2022,Spring,Comedy,6895,4190,127098,48435
+886,Tokyo Ghoul 885,5.82,67,Currently Airing,2006,Fall,Comedy,5645,4523,606630,40417
+887,Naruto 886,7.48,49,Finished Airing,2015,Fall,Adventure,7615,4854,167821,22414
+888,Death Note 887,9.81,51,Currently Airing,2018,Fall,Comedy,6211,1354,273001,19208
+889,Fullmetal Alchemist 888,8.5,84,Currently Airing,2019,Spring,Adventure,6358,594,348092,17145
+890,Dragon Ball 889,6.95,3,Finished Airing,2001,Spring,Sci-Fi,8618,1930,932037,18802
+891,Dragon Ball 890,8.27,65,Finished Airing,2000,Summer,Drama,8387,4469,643380,10306
+892,Naruto 891,8.45,81,Currently Airing,2012,Summer,Fantasy,80,4835,175553,34998
+893,Dragon Ball 892,7.04,18,Currently Airing,2001,Summer,Horror,2246,1619,904060,11570
+894,My Hero Academia 893,5.89,69,Currently Airing,2008,Fall,Comedy,8435,2238,333626,10059
+895,Jujutsu Kaisen 894,5.18,48,Finished Airing,2017,Fall,Adventure,1178,2799,782101,17897
+896,One Piece 895,9.19,5,Finished Airing,2011,Fall,Fantasy,9489,1147,178174,3159
+897,Naruto 896,5.59,24,Finished Airing,2023,Winter,Horror,1620,1020,461966,27071
+898,Death Note 897,9.06,52,Currently Airing,2012,Fall,Fantasy,345,528,68822,44442
+899,Jujutsu Kaisen 898,7.87,80,Finished Airing,2021,Winter,Action,3628,1963,103618,38077
+900,Tokyo Ghoul 899,6.79,87,Currently Airing,2000,Winter,Action,385,4653,425405,4912
+901,Demon Slayer 900,8.24,28,Finished Airing,2020,Fall,Drama,2802,280,655711,34679
+902,Demon Slayer 901,6.19,78,Finished Airing,2008,Spring,Action,1639,407,687744,19124
+903,My Hero Academia 902,5.48,49,Currently Airing,2013,Fall,Drama,78,1944,228245,42432
+904,One Piece 903,8.16,91,Currently Airing,2004,Fall,Horror,2842,659,121547,19093
+905,Attack on Titan 904,9.62,62,Currently Airing,2003,Summer,Sci-Fi,6124,4277,155511,7898
+906,My Hero Academia 905,6.01,16,Finished Airing,2004,Summer,Horror,6184,1743,762129,25964
+907,My Hero Academia 906,5.47,45,Finished Airing,2021,Fall,Fantasy,9005,406,386754,6588
+908,Jujutsu Kaisen 907,6.82,63,Currently Airing,2011,Winter,Horror,397,2896,388332,27046
+909,Dragon Ball 908,6.94,96,Currently Airing,2008,Winter,Adventure,9635,200,604381,37082
+910,One Piece 909,8.13,43,Currently Airing,2005,Summer,Sci-Fi,9135,672,555385,16353
+911,Naruto 910,6.48,18,Finished Airing,2022,Fall,Sci-Fi,5239,3367,492103,35619
+912,Demon Slayer 911,7.91,40,Currently Airing,2014,Winter,Comedy,7138,2846,489797,5685
+913,Tokyo Ghoul 912,7.8,9,Currently Airing,2006,Winter,Drama,8584,3793,393336,38155
+914,My Hero Academia 913,7.87,27,Finished Airing,2005,Summer,Comedy,8082,1225,858487,2307
+915,Jujutsu Kaisen 914,9.98,5,Finished Airing,2000,Spring,Sci-Fi,1953,137,300693,20515
+916,Dragon Ball 915,8.58,82,Finished Airing,2017,Winter,Comedy,2751,1707,504687,46787
+917,Attack on Titan 916,5.75,33,Currently Airing,2016,Spring,Sci-Fi,9491,479,499380,146
+918,Attack on Titan 917,5.57,70,Finished Airing,2021,Summer,Fantasy,3436,3449,800986,41479
+919,Dragon Ball 918,6.72,73,Finished Airing,2018,Winter,Horror,9710,4561,172002,13271
+920,My Hero Academia 919,6.84,7,Finished Airing,2024,Spring,Action,7364,3274,68706,25413
+921,Demon Slayer 920,5.08,91,Finished Airing,2009,Spring,Fantasy,9287,4335,76445,31045
+922,Attack on Titan 921,9.98,67,Currently Airing,2020,Summer,Horror,3738,2592,786124,28727
+923,Dragon Ball 922,6.82,87,Currently Airing,2009,Spring,Action,9087,3170,247635,37835
+924,Jujutsu Kaisen 923,6.62,46,Finished Airing,2009,Summer,Adventure,8675,104,892613,45976
+925,Death Note 924,7.23,33,Finished Airing,2024,Spring,Drama,4739,2407,284641,49299
+926,Demon Slayer 925,6.51,19,Currently Airing,2006,Winter,Horror,2121,879,701887,5685
+927,My Hero Academia 926,9.59,61,Currently Airing,2008,Winter,Romance,182,1346,655724,9397
+928,One Piece 927,9.84,1,Currently Airing,2006,Summer,Adventure,6597,1766,15410,25450
+929,My Hero Academia 928,9.46,15,Currently Airing,2014,Fall,Action,5912,3801,101060,2597
+930,One Piece 929,7.63,23,Finished Airing,2006,Summer,Romance,2524,3544,82968,16454
+931,One Piece 930,7.53,19,Currently Airing,2010,Winter,Horror,6139,1397,558801,12011
+932,Demon Slayer 931,5.38,5,Finished Airing,2000,Summer,Romance,4638,4408,726963,18717
+933,Jujutsu Kaisen 932,8.16,11,Finished Airing,2018,Summer,Adventure,1322,1705,869671,13195
+934,Tokyo Ghoul 933,6.13,30,Currently Airing,2020,Winter,Romance,3355,604,794755,35207
+935,Jujutsu Kaisen 934,9.48,79,Currently Airing,2016,Summer,Action,2886,1475,422591,40657
+936,Naruto 935,7.79,61,Currently Airing,2013,Summer,Comedy,2221,3545,452137,14515
+937,Naruto 936,9.99,37,Finished Airing,2013,Winter,Comedy,9041,2527,823328,34073
+938,Fullmetal Alchemist 937,9.67,59,Currently Airing,2004,Winter,Romance,7334,1138,895259,35752
+939,One Piece 938,5.18,55,Finished Airing,2010,Fall,Fantasy,7121,2277,538726,232
+940,Jujutsu Kaisen 939,9.91,91,Finished Airing,2015,Fall,Drama,1641,3272,228217,48287
+941,Naruto 940,7.57,53,Currently Airing,2006,Spring,Romance,5205,2227,468371,8590
+942,Death Note 941,5.89,43,Finished Airing,2019,Fall,Fantasy,6254,4680,883612,27682
+943,Tokyo Ghoul 942,6.17,87,Finished Airing,2005,Summer,Adventure,1286,806,852411,26498
+944,Jujutsu Kaisen 943,7.54,94,Currently Airing,2000,Winter,Action,6691,2847,743835,22010
+945,Attack on Titan 944,7.86,49,Currently Airing,2010,Summer,Action,1961,3154,881227,6819
+946,Dragon Ball 945,5.01,89,Currently Airing,2002,Spring,Action,1463,1884,683087,23356
+947,Fullmetal Alchemist 946,6.11,76,Currently Airing,2008,Spring,Drama,7457,3592,10065,35825
+948,Tokyo Ghoul 947,5.62,1,Currently Airing,2006,Winter,Drama,4962,3196,713364,26648
+949,Naruto 948,6.64,73,Currently Airing,2003,Winter,Comedy,3125,998,894555,7334
+950,Jujutsu Kaisen 949,5.41,44,Finished Airing,2012,Summer,Action,1907,1439,802254,18523
+951,Dragon Ball 950,5.12,37,Currently Airing,2003,Fall,Sci-Fi,324,3805,275677,127
+952,Fullmetal Alchemist 951,8.83,33,Finished Airing,2008,Fall,Comedy,8863,3560,796338,8158
+953,Attack on Titan 952,9.21,34,Finished Airing,2024,Fall,Horror,5471,1165,75322,33625
+954,Jujutsu Kaisen 953,6.93,12,Finished Airing,2010,Summer,Romance,7896,1436,205496,49088
+955,Demon Slayer 954,9.33,71,Finished Airing,2023,Fall,Horror,7216,3139,160789,1287
+956,Fullmetal Alchemist 955,8.04,18,Currently Airing,2018,Winter,Action,8737,4406,666141,46726
+957,Attack on Titan 956,5.58,33,Finished Airing,2024,Spring,Fantasy,2578,563,687591,40025
+958,Attack on Titan 957,7.45,30,Finished Airing,2021,Summer,Action,7774,1713,594524,33175
+959,Fullmetal Alchemist 958,5.06,96,Currently Airing,2004,Fall,Horror,6098,2991,726833,13137
+960,Death Note 959,9.4,59,Currently Airing,2024,Summer,Horror,6646,4323,443046,35750
+961,One Piece 960,6.73,10,Currently Airing,2018,Summer,Horror,3242,946,768199,30159
+962,Demon Slayer 961,8.86,64,Currently Airing,2021,Fall,Comedy,8428,1493,515732,45374
+963,Jujutsu Kaisen 962,7.22,16,Finished Airing,2002,Spring,Adventure,6923,2818,486645,42872
+964,Jujutsu Kaisen 963,5.22,19,Currently Airing,2017,Fall,Action,5755,4804,780066,21130
+965,Jujutsu Kaisen 964,9.76,42,Currently Airing,2013,Fall,Romance,5307,1708,995636,42149
+966,Jujutsu Kaisen 965,8.15,32,Currently Airing,2003,Spring,Horror,9248,1530,467994,49944
+967,One Piece 966,5.74,34,Currently Airing,2002,Winter,Drama,6464,1085,224215,45003
+968,Jujutsu Kaisen 967,7.51,34,Finished Airing,2024,Spring,Sci-Fi,8111,3767,642609,16718
+969,Death Note 968,7.5,93,Finished Airing,2013,Summer,Sci-Fi,5407,215,5460,24396
+970,Jujutsu Kaisen 969,5.13,45,Currently Airing,2022,Winter,Comedy,5285,2644,970627,19099
+971,My Hero Academia 970,5.03,6,Currently Airing,2024,Summer,Horror,6123,1529,818733,2482
+972,Jujutsu Kaisen 971,9.09,80,Finished Airing,2004,Winter,Sci-Fi,5883,3179,475429,16386
+973,Fullmetal Alchemist 972,5.89,73,Currently Airing,2013,Fall,Romance,4620,2725,943818,31716
+974,Fullmetal Alchemist 973,5.39,17,Finished Airing,2006,Fall,Action,9867,689,323519,12433
+975,Dragon Ball 974,8.19,84,Finished Airing,2008,Summer,Adventure,1066,3249,282903,2440
+976,Jujutsu Kaisen 975,5.17,94,Currently Airing,2005,Spring,Drama,6576,530,679623,20533
+977,My Hero Academia 976,9.68,44,Currently Airing,2009,Winter,Romance,6388,2660,635482,24385
+978,Attack on Titan 977,6.1,3,Currently Airing,2015,Fall,Sci-Fi,3520,851,787937,45227
+979,One Piece 978,7.4,18,Currently Airing,2023,Fall,Comedy,3072,4991,644145,6349
+980,My Hero Academia 979,9.8,49,Finished Airing,2004,Winter,Drama,2764,211,91918,36550
+981,Fullmetal Alchemist 980,6.59,26,Finished Airing,2006,Fall,Romance,4279,3188,536569,26855
+982,One Piece 981,7.87,27,Finished Airing,2003,Winter,Romance,5472,4538,299133,39321
+983,Death Note 982,9.92,52,Currently Airing,2020,Spring,Adventure,9734,1312,238406,10534
+984,Jujutsu Kaisen 983,9.04,6,Currently Airing,2008,Fall,Sci-Fi,477,410,53342,24389
+985,My Hero Academia 984,6.23,39,Currently Airing,2005,Fall,Horror,81,4642,41912,2921
+986,My Hero Academia 985,5.04,66,Currently Airing,2002,Spring,Adventure,5862,1124,531967,26196
+987,One Piece 986,8.75,21,Finished Airing,2023,Fall,Drama,6586,2357,752028,15976
+988,Dragon Ball 987,6.76,31,Currently Airing,2003,Spring,Adventure,7298,3950,689319,33293
+989,Attack on Titan 988,5.74,5,Currently Airing,2008,Spring,Horror,3618,1289,459678,1683
+990,My Hero Academia 989,5.89,55,Currently Airing,2021,Winter,Horror,4964,3438,767894,30574
+991,Attack on Titan 990,8.38,75,Finished Airing,2014,Summer,Romance,2930,4501,131796,13895
+992,Tokyo Ghoul 991,7.37,3,Currently Airing,2021,Summer,Adventure,249,3873,56204,17427
+993,Fullmetal Alchemist 992,8.16,72,Currently Airing,2005,Summer,Comedy,6291,254,424442,16219
+994,Attack on Titan 993,6.41,54,Currently Airing,2002,Winter,Sci-Fi,4282,2889,837916,19308
+995,Tokyo Ghoul 994,8.03,3,Currently Airing,2003,Fall,Comedy,6743,1842,687344,46229
+996,Death Note 995,5.85,35,Finished Airing,2005,Winter,Sci-Fi,7515,3716,935446,5159
+997,My Hero Academia 996,5.41,63,Currently Airing,2010,Spring,Fantasy,9452,2919,827852,40625
+998,One Piece 997,5.62,14,Currently Airing,2003,Summer,Sci-Fi,7745,1061,276554,37765
+999,My Hero Academia 998,9.29,61,Finished Airing,2006,Fall,Drama,3368,1652,608117,24029
+1000,Fullmetal Alchemist 999,6.9,93,Finished Airing,2006,Summer,Romance,7037,3688,154562,33558
